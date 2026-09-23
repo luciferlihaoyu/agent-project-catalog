@@ -22,6 +22,11 @@
 |---|---|---|
 | [God's Eye View](categories/visualization/gods-eye-view.md) | 41.4K | 浏览器里的实时 3D 地球，全是真数据 |
 
+### 🎬 content-creation（内容创作 / 自动化视频）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [MoneyPrinterTurbo](categories/content-creation/moneyprinter-turbo.md) | 125.2K | 一句话主题 → 全自动 1080P 短视频（脚本/素材/配音/字幕/BGM） |
+
 ### 📊 data-intelligence（数据智能）
 *暂无条目 — 留空待补.*
 
