@@ -12,6 +12,20 @@
 | [archify](categories/agent-workflow/archify.md) | 70.1K | AI 画可验证的架构图，绕过 Mermaid 语法地狱 |
 | [i-have-adhd](categories/agent-workflow/i-have-adhd.md) | 50.4K | 强制 Agent 先说答案，废话清零 |
 
+### 🧩 agent-skills（Agent Skills · 9月榜单 10 连发）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [mattpocock/skills](categories/agent-skills/mattpocock-skills.md) | 271.3K | 真实工程师的 Agent Skills 大全集，断层第一 |
+| [ui-ux-pro-max-skill](categories/agent-skills/ui-ux-pro-max-skill.md) | 131.3K | 多平台 UI/UX 设计智能：配色/字体/布局/交互 |
+| [taste-skill](categories/agent-skills/taste-skill.md) | 90.9K | 给 AI 审美好品味，专治模板味 slop |
+| [Agent-Reach](categories/agent-skills/agent-reach.md) | 86.0K | 一 CLI 零 API 费读/搜 13+ 互联网平台 |
+| [understand-anything](categories/agent-skills/understand-anything.md) | 84.5K | 代码库 → 可交互知识图谱 |
+| [career-ops](categories/agent-skills/career-ops.md) | 73.0K | 本地化 AI 求职流水线 |
+| [last30days-skill](categories/agent-skills/last30days-skill.md) | 63.1K | 只看近 30 天的跨平台深度调研 |
+| [humanizer](categories/agent-skills/humanizer.md) | 52.6K | 去 AI 文案味（本机已有同思路技能） |
+| [Anthropic-Cybersecurity-Skills](categories/agent-skills/anthropic-cybersecurity-skills.md) | 33.5K | 817 个安全技能映射 6 大框架 |
+| [claude-seo](categories/agent-skills/claude-seo.md) | 17.9K | 26+19 个 SEO/GEO 子技能合体 |
+
 ### ✍️ writing-code（写码克制 / 代码质量）
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
