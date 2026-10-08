@@ -1,6 +1,6 @@
 # i-have-adhd
 
-> 仓库：https://github.com/ayghri/i-have-adhd · ⭐ 50.4K（2026-09-23 API 实测） · License: MIT
+> 仓库：https://github.com/ayghri/i-have-adhd · ⭐ 55,138（2026-10-08 API 实测） · License: MIT
 
 **一句话：** 强制 AI 编程助手先说答案、别埋结论——废话直接砍掉。
 
@@ -16,3 +16,6 @@
 
 ## 备注
 规则文件可在 `skills/i-have-adhd/SKILL.md` 自定义。
+
+## 更新记录
+- 2026-10-07 再次进入每日精选（+326/日），⭐ 升至 55,138 ⭐ 增至 55,138（2026-10-08 实测）
