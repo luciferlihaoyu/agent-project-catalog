@@ -27,6 +27,7 @@
 | [humanizer](categories/agent-skills/humanizer.md) | 52.6K | 去 AI 文案味（本机已有同思路技能） |
 | [Anthropic-Cybersecurity-Skills](categories/agent-skills/anthropic-cybersecurity-skills.md) | 33.5K | 817 个安全技能映射 6 大框架 |
 | [claude-seo](categories/agent-skills/claude-seo.md) | 17.9K | 26+19 个 SEO/GEO 子技能合体 |
+| [knowledge-work-plugins](categories/agent-skills/anthropics-knowledge-work-plugins.md) | 27.6K | Anthropic 官方 Claude Cowork 知识工作者插件库 |
 
 ### 🔐 security（安全 / 逆向）
 | 项目 | ⭐ | 一句话 |
@@ -53,14 +54,21 @@
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
 | [MoneyPrinterTurbo](categories/content-creation/moneyprinter-turbo.md) | 125.2K | 一句话主题 → 全自动 1080P 短视频（脚本/素材/配音/字幕/BGM） |
+| [ArtCraft](categories/content-creation/artcraft.md) | 7.9K | 艺术家的 IDE：先搭 2D/3D 场景再生成，摆脱盲抽 prompt |
 
 ### 📊 data-intelligence（数据智能）
 *暂无条目 — 留空待补.*
+
+### 📚 learning（学习资料 / 面试）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [system-design-notes](categories/learning/system-design-notes.md) | 24.6K | 系统设计面试圣经的完整读书笔记，速查提纲 |
 
 ## 每日精选归档
 | 日期 | 新增 | 文件 |
 |---|---|---|
 | 2026-10-07 | 6 | [daily/2026-10-07.md](daily/2026-10-07.md) |
+| 2026-10-09 | 3 | [daily/2026-10-09.md](daily/2026-10-09.md) |
 
 ## 检索方式
 - 按功能找：查本页分类表格
