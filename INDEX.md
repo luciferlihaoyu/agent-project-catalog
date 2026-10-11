@@ -28,16 +28,16 @@
 | [Anthropic-Cybersecurity-Skills](categories/agent-skills/anthropic-cybersecurity-skills.md) | 33.5K | 817 个安全技能映射 6 大框架 |
 | [claude-seo](categories/agent-skills/claude-seo.md) | 17.9K | 26+19 个 SEO/GEO 子技能合体 |
 | [knowledge-work-plugins](categories/agent-skills/anthropics-knowledge-work-plugins.md) | 27.6K | Anthropic 官方 Claude Cowork 知识工作者插件库 |
+| [context-mode](categories/agent-skills/context-mode.md) | 26,317 | AI 编程代理上下文窗口优化 |
+| [andrej-karpathy-skills](categories/agent-skills/andrej-karpathy-skills.md) | 218,274 | 来自 Andrej Karpathy 的 LLM 编码坑指南 |
 
-### 🔐 security（安全 / 逆向）
-| 项目 | ⭐ | 一句话 |
-|---|---|---|
-| [rea](categories/security/rea.md) | 15.3K | 用 agent 逆向一切，从应用行为到原生二进制 |
-
-### ⚙️ ml-infra（推理 / 内核基础设施）
+### 🧩 ml-infra（推理 / 内核基础设施）
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
 | [DeepGEMM](categories/ml-infra/deepgemm.md) | 8.9K | DeepSeek 干净高效的 GPU BLAS 内核库 |
+| [tensorflow](categories/ml-infra/tensorflow.md) | 200,727 | 常用 ML 框架，TensorFlow |
+| [pytorch](categories/ml-infra/pytorch.md) | 104,143 | 主流动态图框架，PyTorch |
+| [huggingface](categories/ml-infra/huggingface.md) | 167,261 | 🤗 Transformers：SOTA ML 模型框架 |
 
 ### ✍️ writing-code（写码克制 / 代码质量）
 | 项目 | ⭐ | 一句话 |
@@ -55,6 +55,7 @@
 |---|---|---|
 | [MoneyPrinterTurbo](categories/content-creation/moneyprinter-turbo.md) | 125.2K | 一句话主题 → 全自动 1080P 短视频（脚本/素材/配音/字幕/BGM） |
 | [ArtCraft](categories/content-creation/artcraft.md) | 7.9K | 艺术家的 IDE：先搭 2D/3D 场景再生成，摆脱盲抽 prompt |
+| [ppt-master](categories/content-creation/ppt-master.md) | 59,446 | AI 自动生成 PowerPoint 演示文稿 |
 
 ### 📊 data-intelligence（数据智能）
 *暂无条目 — 留空待补.*
@@ -69,6 +70,7 @@
 |---|---|---|
 | 2026-10-07 | 6 | [daily/2026-10-07.md](daily/2026-10-07.md) |
 | 2026-10-09 | 3 | [daily/2026-10-09.md](daily/2026-10-09.md) |
+| 2026-10-11 | 7 | [daily/2026-10-11.md](daily/2026-10-11.md) |
 
 ## 检索方式
 - 按功能找：查本页分类表格
