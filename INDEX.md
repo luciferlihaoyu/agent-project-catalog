@@ -17,6 +17,7 @@
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
 | [mattpocock/skills](categories/agent-skills/mattpocock-skills.md) | 279.6K | 真实工程师的 Agent Skills 大全集，断层第一 |
+| [airllm](categories/agent-skills/airllm.md) | 36,488 | 单首 4GB GPU 即可跑 70B 参数模型的推理解决方案 |
 | [ui-ux-pro-max-skill](categories/agent-skills/ui-ux-pro-max-skill.md) | 131.3K | 多平台 UI/UX 设计智能：配色/字体/布局/交互 |
 | [taste-skill](categories/agent-skills/taste-skill.md) | 90.9K | 给 AI 审美好品味，专治模板味 slop |
 | [Agent-Reach](categories/agent-skills/agent-reach.md) | 86.0K | 一 CLI 零 API 费读/搜 13+ 互联网平台 |

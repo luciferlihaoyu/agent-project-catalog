@@ -1,6 +1,6 @@
 # God's Eye View
 
-> 仓库：https://github.com/bilawalsidhu/gods-eye-view · ⭐ 41.4K（2026-09-23 API 实测） · JavaScript · License: 自定义（NOASSERTION）
+> 仓库：https://github.com/bilawalsidhu/gods-eye-view · ⭐ 41.4K（GitHub API 实测） · JavaScript · License: 自定义（NOASSERTION）
 
 **一句话：** 浏览器里的"间谍卫星模拟器"——数据全是真的。实时公开信号叠加在写实 3D 地球仪上。
 
