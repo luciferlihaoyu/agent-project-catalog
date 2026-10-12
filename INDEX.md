@@ -12,6 +12,7 @@
 | [ECC](categories/agent-workflow/ecc.md) | 265.5K | AI 编程助手标准化工程中台，跨会话行为一致 |
 | [archify](categories/agent-workflow/archify.md) | 70.1K | AI 画可验证的架构图，绕过 Mermaid 语法地狱 |
 | [i-have-adhd](categories/agent-workflow/i-have-adhd.md) | 55.1K | 强制 Agent 先说答案，废话清零 |
+| [Apollo-11](categories/agent-workflow/Apollo-11.md) | 74,257 | 阿波罗11号引导计算机原始源码，登月计划的软件蓝图 |
 
 ### 🧩 agent-skills（Agent Skills）
 | 项目 | ⭐ | 一句话 |
