@@ -6,13 +6,10 @@
 
 ## 分类导航
 
-### 🛠️ agent-workflow（Agent 工作流 / 工程化）
+### 🎙️ AI-语音合成-本地化工具（本地化AI工具/语音技术）
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
-| [ECC](categories/agent-workflow/ecc.md) | 265.5K | AI 编程助手标准化工程中台，跨会话行为一致 |
-| [archify](categories/agent-workflow/archify.md) | 70.1K | AI 画可验证的架构图，绕过 Mermaid 语法地狱 |
-| [i-have-adhd](categories/agent-workflow/i-have-adhd.md) | 55.1K | 强制 Agent 先说答案，废话清零 |
-| [Apollo-11](categories/agent-workflow/Apollo-11.md) | 74,257 | 阿波罗11号引导计算机原始源码，登月计划的软件蓝图 |
+| [VoiceStudio](categories/AI-语音合成-本地化工具/VoiceStudio.md) | 63,282 | 开源、本地化的 ElevenLabs 替代品，语音克隆/视频配音/转录，支持 646 种语言 |
 
 ### 🧩 agent-skills（Agent Skills）
 | 项目 | ⭐ | 一句话 |
@@ -32,6 +29,24 @@
 | [knowledge-work-plugins](categories/agent-skills/anthropics-knowledge-work-plugins.md) | 27.6K | Anthropic 官方 Claude Cowork 知识工作者插件库 |
 | [context-mode](categories/agent-skills/context-mode.md) | 26,317 | AI 编程代理上下文窗口优化 |
 | [andrej-karpathy-skills](categories/agent-skills/andrej-karpathy-skills.md) | 218,274 | 来自 Andrej Karpathy 的 LLM 编码坑指南 |
+
+### 🛠️ 开发工具-Agent技能框架（开发者工具/技能框架）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [skills](categories/开发工具-Agent技能框架/skills.md) | 34,507 | Vercel Labs 开源，npx skills 即可用的 Agent 技能工具 |
+
+### 🛠️ 开发工具-iOS开发（跨平台iOS开发工具）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [xtool](categories/开发工具-iOS开发/xtool.md) | 9,364 | 跨平台 Xcode 替代品，Linux/Windows/macOS 皆可构建 iOS 应用 |
+
+### 🛠️ agent-workflow（Agent 工作流 / 工程化）
+| 项目 | ⭐ | 一句话 |
+|---|---|---|
+| [ECC](categories/agent-workflow/ecc.md) | 265.5K | AI 编程助手标准化工程中台，跨会话行为一致 |
+| [archify](categories/agent-workflow/archify.md) | 70.1K | AI 画可验证的架构图，绕过 Mermaid 语法地狱 |
+| [i-have-adhd](categories/agent-workflow/i-have-adhd.md) | 55.1K | 强制 Agent 先说答案，废话清零 |
+| [Apollo-11](categories/agent-workflow/Apollo-11.md) | 74,257 | 阿波罗11号引导计算机原始源码，登月计划的软件蓝图 |
 
 ### 🧩 ml-infra（推理 / 内核基础设施）
 | 项目 | ⭐ | 一句话 |
@@ -65,7 +80,7 @@
 ### 📚 learning（学习资料 / 面试）
 | 项目 | ⭐ | 一句话 |
 |---|---|---|
-| [system-design-notes](categories/learning/system-design-notes.md) | 24.6K | 系统设计面试圣经的完整读书笔记，速查提纲 |
+| [system-design-notes](categories/learning/system design-notes.md) | 24.6K | 系统设计面试圣经的完整读书笔记，速查提纲 |
 
 ## 每日精选归档
 | 日期 | 新增 | 文件 |
@@ -74,6 +89,7 @@
 | 2026-10-09 | 3 | [daily/2026-10-09.md](daily/2026-10-09.md) |
 | 2026-10-11 | 7 | [daily/2026-10-11.md](daily/2026-10-11.md) |
 | 2026-10-12 | 3 | [daily/2026-10-12.md](daily/2026-10-12.md) |
+| 2026-10-14 | 3 | [daily/2026-10-14.md](daily/2026-10-14.md) |
 
 ## 检索方式
 - 按功能找：查本页分类表格
