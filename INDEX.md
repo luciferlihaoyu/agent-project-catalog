@@ -1,36 +1,48 @@
--e # GitHub 项目分类索引
+# GitHub 项目分类索引
 
-最后更新: 2026-10-15 (共 8 个新项目)
+最后更新: 2026-10-15 (共 8 个项目)
 
-## 分类概览
 
-### AI/Agent 相关 (4)
-- **AI 科学研究**: K-Dense-AI/scientific-agent-skills
-- **AI 审计审核**: ifixai-ai/iFixAi  
-- **AI 安全应用**: vxcontrol/pentagi
-- **Agent 工具**: HKUDS/CLI-Anything
+## Ai Agents (1)
 
-### 开发工具 (3)
-- **开发者工具**: nvm-sh/nvm
-- **系统工具**: ntdevlabs/tiny11builder
-- **CLI 工具**: HKUDS/CLI-Anything
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/...
+  - 语言: Python | 星标: 52,494 (今日+103)
 
-### 编程语言 (1)
-- **系统编程**: rust-lang/rust
+## Ai Auditing (1)
 
-### 安全工具 (1)
-- **逆向工程**: NationalSecurityAgency/ghidra
+- **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
+  - 语言: Python | 星标: 27,409 (今日+2,109)
+
+## Ai Science (1)
+
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc...
+  - 语言: Python | 星标: 49,338 (今日+163)
+
+## Developer Tools (1)
+
+- **[nvm-sh/nvm](https://github.com/nvm-sh/nvm)** - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions....
+  - 语言: Shell | 星标: 95,454 (今日+52)
+
+## Programming Languages (1)
+
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
+  - 语言: Rust | 星标: 120,031 (今日+207)
+
+## Security Ai (1)
+
+- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** - Fully autonomous AI Agents system capable of performing complex penetration testing tasks...
+  - 语言: Go | 星标: 29,464 (今日+1,025)
+
+## Security Tools (1)
+
+- **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
+  - 语言: Java | 星标: 87,505 (今日+1,008)
+
+## System Tools (1)
+
+- **[ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)** - WinUI app for building smaller, customized Windows 11 images....
+  - 语言: C# | 星标: 20,222 (今日+139)
 
 ## 每日精选归档
 
 - [2026-10-15.md](./daily/2026-10-15.md) - 今日精选
-
-## 统计数据
-
-- 总项目数: 8
-- AI/Agent 占比: 50%
-- Python 项目: 3 个
-- 安全相关: 2 个
-
----
-*自动归档，每日更新*
