@@ -1,12 +1,25 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-15 (共 8 个项目)
+最后更新: 2026-10-16 (共 15 个项目)
 
 
-## Ai Agents (1)
+## Agent Skills (4)
+
+- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens ...
+  - 语言: Go | 星标: 112,610 (今日+433)
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de...
+  - 语言: JavaScript | 星标: 280,454 (今日+1,013)
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** - Official, Anthropic-managed directory of high quality Claude Code Plugins....
+  - 语言: Python | 星标: 39,181 (今日+307)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works....
+  - 语言: Shell | 星标: 299,948 (今日+582)
+
+## Ai Agents (2)
 
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/...
   - 语言: Python | 星标: 52,494 (今日+103)
+- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build...
+  - 语言: TypeScript | 星标: 75,160 (今日+147)
 
 ## Ai Auditing (1)
 
@@ -18,10 +31,17 @@
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc...
   - 语言: Python | 星标: 49,338 (今日+163)
 
-## Developer Tools (1)
+## Developer Tools (2)
 
 - **[nvm-sh/nvm](https://github.com/nvm-sh/nvm)** - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions....
   - 语言: Shell | 星标: 95,454 (今日+52)
+- **[xerj-org/xerj](https://github.com/xerj-org/xerj)** - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without th...
+  - 语言: Rust | 星标: 5,734 (今日+715)
+
+## Ml Infra (1)
+
+- **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** - TokenSpeed is a speed-of-light LLM inference engine....
+  - 语言: Python | 星标: 2,513 (今日+30)
 
 ## Programming Languages (1)
 
@@ -46,3 +66,4 @@
 ## 每日精选归档
 
 - [2026-10-15.md](./daily/2026-10-15.md) - 今日精选
+- [2026-10-16.md](./daily/2026-10-16.md) - 今日精选
