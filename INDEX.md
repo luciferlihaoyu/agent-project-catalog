@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-18 (共 23 个项目)
+最后更新: 2026-10-19 (共 26 个项目)
 
 
 ## Agent Skills (7)
@@ -40,12 +40,17 @@
 - **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
   - 语言: Python | 星标: 27,409 (今日+2,109)
 
-## Ai Science (1)
+## Ai Science (2)
 
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc...
   - 语言: Python | 星标: 49,338 (今日+163)
+- **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+  - 语言: Jupyter Notebook | 星标: 84,029 (今日+81)
 
-## Developer Tools (3)
+## Developer Tools (4)
+
+- **[Kruk2/jasna](https://github.com/Kruk2/jasna)** - Video restoration tool
+  - 语言: Python | 星标: 2,401 (今日+115)
 
 - **[hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)** - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
   - 语言: JavaScript | 星标: 23,691 (今日+538)
@@ -54,8 +59,10 @@
 - **[xerj-org/xerj](https://github.com/xerj-org/xerj)** - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without th...
   - 语言: Rust | 星标: 5,734 (今日+715)
 
-## Ml Infra (1)
+## Ml Infra (2)
 
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world....
+  - 语言: Python | 星标: 138,616 (今日+154)
 - **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** - TokenSpeed is a speed-of-light LLM inference engine....
   - 语言: Python | 星标: 2,513 (今日+30)
 
@@ -85,3 +92,4 @@
 - [2026-10-16.md](./daily/2026-10-16.md) - 今日精选
 - [2026-10-17.md](./daily/2026-10-17.md) - 今日精选
 - [2026-10-18.md](./daily/2026-10-18.md) - 今日精选
+- [2026-10-19.md](./daily/2026-10-19.md) - 今日精选
