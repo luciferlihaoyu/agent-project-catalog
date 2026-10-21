@@ -1,9 +1,9 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-21 (共 34 个项目)
+最后更新: 2026-10-21 (共 44 个项目)
 
 
-## Agent Skills (11)
+## Agent Skills (13)
 
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - 让 AI agent 用"最懒的高级工程师"思路工作 —— 最好的代码就是从不写的代码。YAGNI 极简主义 agent skill。
   - 语言: JavaScript | 星标: 169,659 (今日+1,208)
@@ -11,6 +11,10 @@
   - 语言: Python | 星标: 130,242 (今日+802)
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens ...
   - 语言: Go | 星标: 112,610 (今日+433)
+- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** - 给 coding agent 加耳朵 —— 让 AI 能"听见"代码（review 时输出语音反馈），纯 CPU 可跑。
+  - 语言: Python | 星标: 1,954 (今日+1,400+)
+- **[aicodeking/leanrea](https://github.com/aicodeking/leanrea)** - 8 KB 极简 skill 替代 REA —— 纯 CLI 工具、不依赖 MCP；官方 benchmark 比 REA 快 38%、省 35% 成本。
+  - 语言: Python | 星标: 1,180 (今日+800+)
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de...
   - 语言: JavaScript | 星标: 280,454 (今日+1,013)
 - **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
@@ -53,7 +57,24 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Ml Infra (4)
+## Developer Tools (1)
+
+- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** - 为 AI agent 设计的 Git —— 把 AI agent 的代码改动纳入 Git 工作流（attribution / commit / branch 等），让 agent 像人类开发者一样被版本管理。
+  - 语言: Go | 星标: 1,271 (今日+800+)
+
+## Games (2)
+
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** - 《神秘海域：内森·德雷克合集》在 Windows 上原生运行 —— SuperMedo 出品的 PC 移植项目。
+  - 语言: C++ | 星标: 1,725 (今日+1,300+)
+- **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
+  - 语言: C | 星标: 2,846 (今日+1,800+)
+
+## Learning (1)
+
+- **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
+  - 语言: Python | 星标: 1,593 (今日+900+)
+
+## Ml Infra (5)
 
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world....
   - 语言: Python | 星标: 138,616 (今日+154)
@@ -63,18 +84,13 @@
   - 语言: Python | 星标: 2,513 (今日+30)
 - **[vllm-project/vllm](https://github.com/vllm-project/vllm)** - 高吞吐、低显存的 LLM 推理与服务引擎 —— 开源 LLM serving 事实标准，支持 PagedAttention / continuous batching / AMD·CUDA·TPU。
   - 语言: Python | 星标: 94,436 (今日+128)
+- **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** - DeepSeek 官方高性能大规模推理框架 —— DeepSeek 模型专属优化，承接 DeepSeek-V3/R1 等 MoE 模型的工业级 serving。
+  - 语言: Python | 星标: 12,556 (今日+2,400+)
 
-## Ai Science (3)
+## Programming Languages (2)
 
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ sc...
-  - 语言: Python | 星标: 49,338 (今日+163)
-- **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-  - 语言: Jupyter Notebook | 星标: 84,029 (今日+81)
-- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** - Kronos：金融市场的"语言"基础模型，把 K 线、订单流等行情数据当作序列来预训练。
-  - 语言: Python | 星标: 41,669 (今日+363)
-
-## Programming Languages (1)
-
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** - 把普通 JavaScript 代码变成神经网络 —— TypeScript 实现，让 JS 语义直接被 NN 表达。
+  - 语言: TypeScript | 星标: 1,853 (今日+1,300+)
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
@@ -88,10 +104,14 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (1)
+## System Tools (3)
 
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** - 通过 Wi-Fi 远程精简 Android/Google TV，让电视变成 Apple TV 风格极简主页 —— 无需 root，跨网段 ADB 操作。
+  - 语言: Java | 星标: 11,978 (今日+3,000+)
 - **[ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)** - WinUI app for building smaller, customized Windows 11 images....
   - 语言: C# | 星标: 20,222 (今日+139)
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** - Google TV 极速无广告启动器 —— 用 Claude Code 协助开发的开源 TV Launcher，一键回退默认。
+  - 语言: Java | 星标: 1,828 (今日+1,200+)
 
 ## 每日精选归档
 
