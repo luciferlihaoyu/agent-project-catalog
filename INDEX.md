@@ -1,10 +1,14 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-20 (共 29 个项目)
+最后更新: 2026-10-21 (共 34 个项目)
 
 
-## Agent Skills (7)
+## Agent Skills (11)
 
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - 让 AI agent 用"最懒的高级工程师"思路工作 —— 最好的代码就是从不写的代码。YAGNI 极简主义 agent skill。
+  - 语言: JavaScript | 星标: 169,659 (今日+1,208)
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** - 把任意代码库（含文档/SQL schema/配置/PDF）转成可查询的知识图谱 —— Claude Code/Cursor/Codex/Gemini CLI 通用的 `/graphify` skill，本地确定性 AST 解析、不需向量库。
+  - 语言: Python | 星标: 130,242 (今日+802)
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens ...
   - 语言: Go | 星标: 112,610 (今日+433)
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first de...
@@ -19,6 +23,10 @@
   - 语言: TypeScript | 星标: 11,954 (今日+278)
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works....
   - 语言: Shell | 星标: 299,948 (今日+582)
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** - AAS Core —— 本地、agent-first 控制平面，2600+ agentic skills 的 catalog 发现/选择/技术栈校验/规划；含 CLI、本地 MCP、Workbench。
+  - 语言: Python | 星标: 48,091 (今日+83)
+- **[wshobson/agents](https://github.com/wshobson/agents)** - 多 harness 的 agentic plugin marketplace —— 一套插件同时支持 Claude Code / Codex / Cursor / OpenCode / GitHub Copilot / Google Antigravity / Pi。
+  - 语言: Python | 星标: 41,252 (今日+93)
 
 ## Ai Agents (6)
 
@@ -45,7 +53,7 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Ml Infra (3)
+## Ml Infra (4)
 
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world....
   - 语言: Python | 星标: 138,616 (今日+154)
@@ -53,6 +61,8 @@
   - 语言: Python | 星标: 76,245 (今日+310)
 - **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** - TokenSpeed is a speed-of-light LLM inference engine....
   - 语言: Python | 星标: 2,513 (今日+30)
+- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** - 高吞吐、低显存的 LLM 推理与服务引擎 —— 开源 LLM serving 事实标准，支持 PagedAttention / continuous batching / AMD·CUDA·TPU。
+  - 语言: Python | 星标: 94,436 (今日+128)
 
 ## Ai Science (3)
 
@@ -91,3 +101,4 @@
 - [2026-10-18.md](./daily/2026-10-18.md) - 今日精选
 - [2026-10-19.md](./daily/2026-10-19.md) - 今日精选
 - [2026-10-20.md](./daily/2026-10-20.md) - 今日精选
+- [2026-10-21.md](./daily/2026-10-21.md) - 今日精选
