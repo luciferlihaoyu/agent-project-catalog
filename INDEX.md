@@ -1,7 +1,14 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-21 (共 44 个项目)
+最后更新: 2026-10-22 (共 47 个项目)
 
+
+## Backend Platform (2)
+
+- **[supabase/supabase](https://github.com/supabase/supabase)** - The Postgres development platform —— 开源 Postgres 应用后端底座：数据库 + Auth + Realtime + Storage + Edge Functions + pgvector 一站式，Apache-2.0 可完全私有化。
+  - 语言: TypeScript | 星标: 113,001 (今日+504)
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
+  - 语言: TypeScript | 星标: 59,165 (今日+112)
 
 ## Agent Skills (13)
 
@@ -52,8 +59,10 @@
 - **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
   - 语言: Python | 星标: 27,409 (今日+2,109)
 
-## Data Intelligence (1)
+## Data Intelligence (2)
 
+- **[strelov1/freehire](https://github.com/strelov1/freehire)** - freehire — the open-source search engine for job seekers —— 面向求职者的开源职位搜索：直取各公司招聘官网 330 万+ 实时职位，不经中介转载，Go + Meilisearch + LLM 匹配。
+  - 语言: Go | 星标: 2,383 (今日+360)
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
@@ -122,3 +131,4 @@
 - [2026-10-19.md](./daily/2026-10-19.md) - 今日精选
 - [2026-10-20.md](./daily/2026-10-20.md) - 今日精选
 - [2026-10-21.md](./daily/2026-10-21.md) - 今日精选
+- [2026-10-22.md](./daily/2026-10-22.md) - 今日精选
