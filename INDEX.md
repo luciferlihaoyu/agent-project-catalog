@@ -1,10 +1,12 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-22 (共 47 个项目)
+最后更新: 2026-10-23 (共 51 个项目)
 
 
-## Backend Platform (2)
+## Backend Platform (3)
 
+- **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
+  - 语言: Python | 星标: 103,747 (今日+101)
 - **[supabase/supabase](https://github.com/supabase/supabase)** - The Postgres development platform —— 开源 Postgres 应用后端底座：数据库 + Auth + Realtime + Storage + Edge Functions + pgvector 一站式，Apache-2.0 可完全私有化。
   - 语言: TypeScript | 星标: 113,001 (今日+504)
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
@@ -71,15 +73,19 @@
 - **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** - 为 AI agent 设计的 Git —— 把 AI agent 的代码改动纳入 Git 工作流（attribution / commit / branch 等），让 agent 像人类开发者一样被版本管理。
   - 语言: Go | 星标: 1,271 (今日+800+)
 
-## Games (2)
+## Games (3)
 
+- **[Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)** - Plain Craft Launcher —— 中文 Minecraft 启动器：一键导入整合包、自动装模组/光影/版本、自动匹配 Java，自定义《PCL 分发有限许可》。
+  - 语言: Visual Basic .NET | 星标: 8,692 (今日+119)
 - **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** - 《神秘海域：内森·德雷克合集》在 Windows 上原生运行 —— SuperMedo 出品的 PC 移植项目。
   - 语言: C++ | 星标: 1,725 (今日+1,300+)
 - **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
   - 语言: C | 星标: 2,846 (今日+1,800+)
 
-## Learning (1)
+## Learning (2)
 
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** - Claude Code 视觉化实战指南 —— 从基础概念到高级 Agent，图解 + 可复制模板，照抄即用。
+  - 语言: Python | 星标: 43,204 (今日+177)
 - **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
   - 语言: Python | 星标: 1,593 (今日+900+)
 
@@ -96,10 +102,12 @@
 - **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** - DeepSeek 官方高性能大规模推理框架 —— DeepSeek 模型专属优化，承接 DeepSeek-V3/R1 等 MoE 模型的工业级 serving。
   - 语言: Python | 星标: 12,556 (今日+2,400+)
 
-## Programming Languages (2)
+## Programming Languages (3)
 
 - **[chenglou/handwired](https://github.com/chenglou/handwired)** - 把普通 JavaScript 代码变成神经网络 —— TypeScript 实现，让 JS 语义直接被 NN 表达。
   - 语言: TypeScript | 星标: 1,853 (今日+1,300+)
+- **[php/php-src](https://github.com/php/php-src)** - The PHP Interpreter —— PHP 官方解释器源码仓库：Zend Engine VM + 扩展系统，C 实现，BSD-3-Clause。
+  - 语言: C | 星标: 41,154 (今日+287)
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
@@ -132,3 +140,4 @@
 - [2026-10-20.md](./daily/2026-10-20.md) - 今日精选
 - [2026-10-21.md](./daily/2026-10-21.md) - 今日精选
 - [2026-10-22.md](./daily/2026-10-22.md) - 今日精选
+- [2026-10-23.md](./daily/2026-10-23.md) - 今日精选
