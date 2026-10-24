@@ -1,7 +1,14 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-23 (共 51 个项目)
+最后更新: 2026-10-24 (共 51 个项目)
 
+
+## AI Speech & Local Tools (2)
+
+- **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** - Tokenizer-Free 多语言 TTS —— 面壁智能 2B 模型 / 200 万小时语料 / 30 语言 + 中文方言，diffusion autoregressive 直出 48kHz，Apache-2.0 可商用。
+  - 语言: Python | 星标: 40,257 (今日+150)
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
+  - 语言: Python | 星标: 83,354（2026-10-14 收录）
 
 ## Backend Platform (3)
 
@@ -12,8 +19,12 @@
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
   - 语言: TypeScript | 星标: 59,165 (今日+112)
 
-## Agent Skills (13)
+## Agent Skills (15)
 
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - Cloudflare 官方多阶段安全审计 skill —— 侦察/覆盖台账驱动猎取/候选验证/结构化输出/独立复核六阶段流水线，结论可溯源可证伪，MIT。
+  - 语言: JavaScript | 星标: 42,151 (今日+2,716)
+- **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** - 进攻性安全 skills 库 —— 78 个 SKILL.md 覆盖 23 类攻击面（SQLi/RCE/EDR 绕过/ADCS 滥用/提权），按需加载不占 context，MIT。
+  - 语言: Python | 星标: 8,491 (今日+226)
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - 让 AI agent 用"最懒的高级工程师"思路工作 —— 最好的代码就是从不写的代码。YAGNI 极简主义 agent skill。
   - 语言: JavaScript | 星标: 169,659 (今日+1,208)
 - **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** - 把任意代码库（含文档/SQL schema/配置/PDF）转成可查询的知识图谱 —— Claude Code/Cursor/Codex/Gemini CLI 通用的 `/graphify` skill，本地确定性 AST 解析、不需向量库。
@@ -41,8 +52,10 @@
 - **[wshobson/agents](https://github.com/wshobson/agents)** - 多 harness 的 agentic plugin marketplace —— 一套插件同时支持 Claude Code / Codex / Cursor / OpenCode / GitHub Copilot / Google Antigravity / Pi。
   - 语言: Python | 星标: 41,252 (今日+93)
 
-## Ai Agents (6)
+## Ai Agents (7)
 
+- **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** - 自主 AI Agent 的安全私有运行时 —— 内核级强制策略 + 形式化验证策略变更，Agent 只拿得到声明式授权，Apache-2.0。
+  - 语言: Rust | 星标: 18,799 (今日+1,119)
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/...
   - 语言: Python | 星标: 52,494 (今日+103)
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
@@ -82,8 +95,10 @@
 - **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
   - 语言: C | 星标: 2,846 (今日+1,800+)
 
-## Learning (2)
+## Learning (3)
 
+- **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** - 紫微斗数开源排盘引擎 —— 倪海厦《天纪》体系，67.5 万命盘 × 13 维 = 877 万段解读（204 亿字），断语逐句可溯源；代码 MIT / 数据 CC BY 4.0。
+  - 语言: TypeScript | 星标: 6,858 (今日+546)
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** - Claude Code 视觉化实战指南 —— 从基础概念到高级 Agent，图解 + 可复制模板，照抄即用。
   - 语言: Python | 星标: 43,204 (今日+177)
 - **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
@@ -102,8 +117,10 @@
 - **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** - DeepSeek 官方高性能大规模推理框架 —— DeepSeek 模型专属优化，承接 DeepSeek-V3/R1 等 MoE 模型的工业级 serving。
   - 语言: Python | 星标: 12,556 (今日+2,400+)
 
-## Programming Languages (3)
+## Programming Languages (4)
 
+- **[nodejs/node](https://github.com/nodejs/node)** - Node.js JavaScript runtime —— JS 生态地基，V8 + libuv + 内置 Web 标准 + 运行时权限模型；NOASSERTION（MIT 式 + 第三方段落），v26 将于 2026-10-28 转 LTS。
+  - 语言: JavaScript | 星标: 122,865 (今日+66)
 - **[chenglou/handwired](https://github.com/chenglou/handwired)** - 把普通 JavaScript 代码变成神经网络 —— TypeScript 实现，让 JS 语义直接被 NN 表达。
   - 语言: TypeScript | 星标: 1,853 (今日+1,300+)
 - **[php/php-src](https://github.com/php/php-src)** - The PHP Interpreter —— PHP 官方解释器源码仓库：Zend Engine VM + 扩展系统，C 实现，BSD-3-Clause。
@@ -141,3 +158,4 @@
 - [2026-10-21.md](./daily/2026-10-21.md) - 今日精选
 - [2026-10-22.md](./daily/2026-10-22.md) - 今日精选
 - [2026-10-23.md](./daily/2026-10-23.md) - 今日精选
+- [2026-10-24.md](./daily/2026-10-24.md) - 今日精选
