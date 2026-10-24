@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-24 (共 51 个项目)
+最后更新: 2026-10-24 (共 57 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -19,8 +19,12 @@
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
   - 语言: TypeScript | 星标: 59,165 (今日+112)
 
-## Agent Skills (15)
+## Agent Skills (17)
 
+- **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
+  - 语言: Python | 星标: 2,956 (今日+11)
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** - 反 AI-slop 设计 skill —— 给 Claude Code/Cursor/Codex 注入设计品味约束，专治紫渐变圆角卡片千篇一律，MIT。
+  - 语言: CSS | 星标: 31,477 (今日+567)
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - Cloudflare 官方多阶段安全审计 skill —— 侦察/覆盖台账驱动猎取/候选验证/结构化输出/独立复核六阶段流水线，结论可溯源可证伪，MIT。
   - 语言: JavaScript | 星标: 42,151 (今日+2,716)
 - **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** - 进攻性安全 skills 库 —— 78 个 SKILL.md 覆盖 23 类攻击面（SQLi/RCE/EDR 绕过/ADCS 滥用/提权），按需加载不占 context，MIT。
@@ -52,8 +56,12 @@
 - **[wshobson/agents](https://github.com/wshobson/agents)** - 多 harness 的 agentic plugin marketplace —— 一套插件同时支持 Claude Code / Codex / Cursor / OpenCode / GitHub Copilot / Google Antigravity / Pi。
   - 语言: Python | 星标: 41,252 (今日+93)
 
-## Ai Agents (7)
+## Ai Agents (9)
 
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** - Google 官方终端 AI Agent —— Gemini 直入终端，MCP client/server 双端支持，与 Claude Code/OpenCode 三足鼎立，Apache-2.0。
+  - 语言: TypeScript | 星标: 107,580 (今日+38)
+- **[makecindy/cindy](https://github.com/makecindy/cindy)** - 开箱即用全端开源 AI Agent —— Electron + iOS + Android，底层接 Claude Code/Codex，与 orca 同生态位；⚠️ 1,895 open issues 待观察。
+  - 语言: TypeScript | 星标: 3,737 (今日+471)
 - **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** - 自主 AI Agent 的安全私有运行时 —— 内核级强制策略 + 形式化验证策略变更，Agent 只拿得到声明式授权，Apache-2.0。
   - 语言: Rust | 星标: 18,799 (今日+1,119)
 - **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/...
@@ -95,8 +103,15 @@
 - **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
   - 语言: C | 星标: 2,846 (今日+1,800+)
 
-## Learning (3)
+## Hardware & Robotics (1)
 
+- **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** - 开源双足小鸭子机器人 🦆 —— Reachy 制造商 pollen robotics 出品，Rust 固件 + 开源硬件，桌面玩具级开源机器人。
+  - 语言: Rust | 星标: 10,625 (今日+421)
+
+## Learning (4)
+
+- **[jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)** - 电子书下载宝库（现象观察收录）—— 聚合帆书/微信读书/京东读书等平台下载链接；零协议、半年未推送，合规风险显著。
+  - 语言: Python | 星标: 22,258 (今日+220)
 - **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** - 紫微斗数开源排盘引擎 —— 倪海厦《天纪》体系，67.5 万命盘 × 13 维 = 877 万段解读（204 亿字），断语逐句可溯源；代码 MIT / 数据 CC BY 4.0。
   - 语言: TypeScript | 星标: 6,858 (今日+546)
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** - Claude Code 视觉化实战指南 —— 从基础概念到高级 Agent，图解 + 可复制模板，照抄即用。
