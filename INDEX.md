@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-24 (共 57 个项目)
+最后更新: 2026-10-26 (共 61 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -10,7 +10,7 @@
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
   - 语言: Python | 星标: 83,354（2026-10-14 收录）
 
-## Backend Platform (3)
+## Backend Platform (4)
 
 - **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
   - 语言: Python | 星标: 103,747 (今日+101)
@@ -18,8 +18,10 @@
   - 语言: TypeScript | 星标: 113,001 (今日+504)
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
   - 语言: TypeScript | 星标: 59,165 (今日+112)
+- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - 开源自托管 PaaS（Vercel/Heroku/Netlify 替代）—— 一条 SSH 把 VPS/裸金属/树莓派变成 PaaS，Git 一键构建 + 托管数据库 + 360+ 一键服务，配置留在自己服务器、卸载后服务照常跑，Apache-2.0。
+  - 语言: PHP | 星标: 64,380 (今日+152)
 
-## Agent Skills (17)
+## Agent Skills (18)
 
 - **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
   - 语言: Python | 星标: 2,956 (今日+11)
@@ -55,8 +57,10 @@
   - 语言: Python | 星标: 48,091 (今日+83)
 - **[wshobson/agents](https://github.com/wshobson/agents)** - 多 harness 的 agentic plugin marketplace —— 一套插件同时支持 Claude Code / Codex / Cursor / OpenCode / GitHub Copilot / Google Antigravity / Pi。
   - 语言: Python | 星标: 41,252 (今日+93)
+- **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - 通用 SEO 技能包 —— 26 子技能 + 19 子代理：技术 SEO / E-E-A-T / Schema / GEO·AEO / Agent 就绪度（Lighthouse Agentic Browsing、WebMCP、llms.txt）/ 外链 / 本地 / 跨境电商 / PDF·Excel 报告，MIT。
+  - 语言: Python | 星标: 20,863 (今日+197)
 
-## Ai Agents (9)
+## Ai Agents (11)
 
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** - Google 官方终端 AI Agent —— Gemini 直入终端，MCP client/server 双端支持，与 Claude Code/OpenCode 三足鼎立，Apache-2.0。
   - 语言: TypeScript | 星标: 107,580 (今日+38)
@@ -76,6 +80,10 @@
   - 语言: TypeScript | 星标: 75,160 (今日+147)
 - **[stablyai/orca](https://github.com/stablyai/orca)** - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
   - 语言: TypeScript | 星标: 95,412 (今日+830)
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** - 多智能体 LLM 金融交易框架 —— 基本面/技术/情绪/新闻分析师 + 研究员 + 交易员 + 风控，辩论式协作出决策；回测只读当日已发布数据（防未来函数），按模型层级配 provider，Apache-2.0。
+  - 语言: Python | 星标: 114,605 (今日+381)
+- **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** - JetBrains 孵化的 Agent 宿主 IDE —— 给第三方 `pi` Agent 套真 IDE（Monaco + 终端 + 文件树），git worktree 隔离并行工作区，living specs（SPEC.md 关系图）让意图跨会话存活，PR 为终态，Apache-2.0。
+  - 语言: TypeScript | 星标: 1,734 (今日+51)
 
 ## Ai Auditing (1)
 
@@ -174,3 +182,4 @@
 - [2026-10-22.md](./daily/2026-10-22.md) - 今日精选
 - [2026-10-23.md](./daily/2026-10-23.md) - 今日精选
 - [2026-10-24.md](./daily/2026-10-24.md) - 今日精选
+- [2026-10-26.md](./daily/2026-10-26.md) - 今日精选
