@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-26 (共 61 个项目)
+最后更新: 2026-10-27 (共 70 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -21,7 +21,22 @@
 - **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - 开源自托管 PaaS（Vercel/Heroku/Netlify 替代）—— 一条 SSH 把 VPS/裸金属/树莓派变成 PaaS，Git 一键构建 + 托管数据库 + 360+ 一键服务，配置留在自己服务器、卸载后服务照常跑，Apache-2.0。
   - 语言: PHP | 星标: 64,380 (今日+152)
 
-## Agent Skills (18)
+## Content Creation (6)
+
+- **[storytold/artcraft](https://github.com/storytold/artcraft)** - 艺术家的 IDE —— 在 2D 里构图、在 3D 里布景，先搭好画面再让 AI 生成，把 prompt 变成可控的 crafting，Rust 桌面应用。
+  - 语言: Rust | 星标: 7,937 (2026-10-08 收录)
+- **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** - 艺术动画 skill —— 35 种艺术风格、9 种解说语法，用代码让画动起来，MIT。
+  - 语言: JavaScript | 星标: 2,870 (2026-10-10 收录)
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 给一个主题，全自动产出一条 1080P 高清短视频 —— 脚本/素材/配音/字幕/BGM 一条龙，最快一分钟出片，MIT。
+  - 语言: Python | 星标: 125.2K (2026-09-23 收录)
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - 阿里工业级代码 review 基础设施 —— 确定性管道 + LLM Agent 混合架构，行级精准评论，内置多语言规则集（NPE/线程安全/XSS/SQL 注入），Apache-2.0。
+  - 语言: Go | 星标: 45,213 (2026-10-10 收录)
+- **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** - AI 把文档或主题变成真正的原生 PowerPoint —— 原生形状/转场/动画、数据支撑的图表与表格、备注转旁白配音、支持自有 .pptx 模板。
+  - 语言: Python | 星标: 59,446 (2026-10-11 收录)
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
+  - 语言: TypeScript | 星标: 38,451 (今日+188)
+
+## Agent Skills (19)
 
 - **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
   - 语言: Python | 星标: 2,956 (今日+11)
@@ -59,8 +74,10 @@
   - 语言: Python | 星标: 41,252 (今日+93)
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - 通用 SEO 技能包 —— 26 子技能 + 19 子代理：技术 SEO / E-E-A-T / Schema / GEO·AEO / Agent 就绪度（Lighthouse Agentic Browsing、WebMCP、llms.txt）/ 外链 / 本地 / 跨境电商 / PDF·Excel 报告，MIT。
   - 语言: Python | 星标: 20,863 (今日+197)
+- **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** - Huashu Design 3.0 —— 在 agent 里打一句话拿回可交付设计：网页/App 原型/可编辑 PPTX/动画/信息图；六候选挑三方向 + 84 种带样张风格库 + 只量事实的设计体检 + 外观账本，MIT。
+  - 语言: HTML | 星标: 26,749 (今日+251 · 全场增速第一)
 
-## Ai Agents (11)
+## Ai Agents (12)
 
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** - Google 官方终端 AI Agent —— Gemini 直入终端，MCP client/server 双端支持，与 Claude Code/OpenCode 三足鼎立，Apache-2.0。
   - 语言: TypeScript | 星标: 107,580 (今日+38)
@@ -82,6 +99,8 @@
   - 语言: TypeScript | 星标: 95,412 (今日+830)
 - **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** - 多智能体 LLM 金融交易框架 —— 基本面/技术/情绪/新闻分析师 + 研究员 + 交易员 + 风控，辩论式协作出决策；回测只读当日已发布数据（防未来函数），按模型层级配 provider，Apache-2.0。
   - 语言: Python | 星标: 114,605 (今日+381)
+- **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - 本地优先桌面 AI 队友工作台 —— 每 Agent 独立工作区+会话、FIFO 队列、文件传输、内嵌浏览器、Agent 间消息；Codex/Claude Code 原生 + 其余走 ACP；⚠️ danger-full-access + approvalPolicy never，非商业协议。
+  - 语言: TypeScript | 星标: 1,475 (今日+176)
 - **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** - JetBrains 孵化的 Agent 宿主 IDE —— 给第三方 `pi` Agent 套真 IDE（Monaco + 终端 + 文件树），git worktree 隔离并行工作区，living specs（SPEC.md 关系图）让意图跨会话存活，PR 为终态，Apache-2.0。
   - 语言: TypeScript | 星标: 1,734 (今日+51)
 
@@ -151,10 +170,12 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (1)
+## Security Ai (2)
 
 - **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** - Fully autonomous AI Agents system capable of performing complex penetration testing tasks...
   - 语言: Go | 星标: 29,464 (今日+1,025)
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** - AI agent skill 安全扫描器 —— 安装前扫出提示注入/数据外泄/提权/供应链/记忆投毒等 71 个模式、17 个类别；官方样本 31,132 个 skill 中 26.1% 含漏洞、5.2% 疑似恶意；已进入 NVIDIA Verified Skills 扫描-签名管线，Apache-2.0。
+  - 语言: Python | 星标: 22,187 (今日+214)
 
 ## Security Tools (1)
 
@@ -183,3 +204,4 @@
 - [2026-10-23.md](./daily/2026-10-23.md) - 今日精选
 - [2026-10-24.md](./daily/2026-10-24.md) - 今日精选
 - [2026-10-26.md](./daily/2026-10-26.md) - 今日精选
+- [2026-10-27.md](./daily/2026-10-27.md) - 今日精选
