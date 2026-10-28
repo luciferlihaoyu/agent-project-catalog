@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-27 (共 70 个项目)
+最后更新: 2026-10-28 (共 73 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -36,7 +36,7 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (19)
+## Agent Skills (20)
 
 - **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
   - 语言: Python | 星标: 2,956 (今日+11)
@@ -76,6 +76,8 @@
   - 语言: Python | 星标: 20,863 (今日+197)
 - **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** - Huashu Design 3.0 —— 在 agent 里打一句话拿回可交付设计：网页/App 原型/可编辑 PPTX/动画/信息图；六候选挑三方向 + 84 种带样张风格库 + 只量事实的设计体检 + 外观账本，MIT。
   - 语言: HTML | 星标: 26,749 (今日+251 · 全场增速第一)
+- **[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)** - 给 AI 编码工具的设计 skill 集 —— 每个 skill 就是一个独立文件夹的 Markdown 规则文件，零依赖分发（cp 到 .claude/skills/ 或 AGENTS.md 即生效）；landing-page-design 覆盖 intake→结构→文案→完整视觉系统，MIT。
+  - 语言: Markdown | 星标: 9,331 (今日+1,395 · 全场增速第一 · 仅 5 open issues)
 
 ## Ai Agents (12)
 
@@ -135,7 +137,7 @@
 - **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** - 开源双足小鸭子机器人 🦆 —— Reachy 制造商 pollen robotics 出品，Rust 固件 + 开源硬件，桌面玩具级开源机器人。
   - 语言: Rust | 星标: 10,625 (今日+421)
 
-## Learning (4)
+## Learning (5)
 
 - **[jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)** - 电子书下载宝库（现象观察收录）—— 聚合帆书/微信读书/京东读书等平台下载链接；零协议、半年未推送，合规风险显著。
   - 语言: Python | 星标: 22,258 (今日+220)
@@ -145,6 +147,8 @@
   - 语言: Python | 星标: 43,204 (今日+177)
 - **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
   - 语言: Python | 星标: 1,593 (今日+900+)
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** - 终身个性化辅导的 agent 原生学习工作台 —— 答疑/出题/研究/可视化/掌握度共享同一能力运行时；CLI 输出 NDJSON 事件流可被别的 agent 驱动、headless 安全，L1/L2/L3 记忆可检视，九种 RAG 引擎并行，Apache-2.0。
+  - 语言: Python | 星标: 45,895 (今日+1,598)
 
 ## Ml Infra (5)
 
@@ -170,12 +174,14 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (2)
+## Security Ai (3)
 
 - **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** - Fully autonomous AI Agents system capable of performing complex penetration testing tasks...
   - 语言: Go | 星标: 29,464 (今日+1,025)
 - **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** - AI agent skill 安全扫描器 —— 安装前扫出提示注入/数据外泄/提权/供应链/记忆投毒等 71 个模式、17 个类别；官方样本 31,132 个 skill 中 26.1% 含漏洞、5.2% 疑似恶意；已进入 NVIDIA Verified Skills 扫描-签名管线，Apache-2.0。
   - 语言: Python | 星标: 22,187 (今日+214)
+- **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** - 系统提示词/角色锁/工作区策略的策展式收藏 —— 31 份完整可粘贴提示词覆盖 25+ 模型（Big Pickle VANTA、Space Bunny、MiMo、GLM-5.3、Claude Opus/Sonnet、Gemini、Grok…），覆盖 system prompt / AGENTS.md / Ollama Modelfile；自述为 prompt injection 研究样本，⚠️ 协议未标注。
+  - 语言: Markdown | 星标: 5,538 (今日+902 · fork 率 14.8%)
 
 ## Security Tools (1)
 
@@ -205,3 +211,4 @@
 - [2026-10-24.md](./daily/2026-10-24.md) - 今日精选
 - [2026-10-26.md](./daily/2026-10-26.md) - 今日精选
 - [2026-10-27.md](./daily/2026-10-27.md) - 今日精选
+- [2026-10-28.md](./daily/2026-10-28.md) - 今日精选
