@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-28 (共 73 个项目)
+最后更新: 2026-10-29 (共 77 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -10,7 +10,7 @@
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
   - 语言: Python | 星标: 83,354（2026-10-14 收录）
 
-## Backend Platform (4)
+## Backend Platform (5)
 
 - **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
   - 语言: Python | 星标: 103,747 (今日+101)
@@ -20,6 +20,8 @@
   - 语言: TypeScript | 星标: 59,165 (今日+112)
 - **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - 开源自托管 PaaS（Vercel/Heroku/Netlify 替代）—— 一条 SSH 把 VPS/裸金属/树莓派变成 PaaS，Git 一键构建 + 托管数据库 + 360+ 一键服务，配置留在自己服务器、卸载后服务照常跑，Apache-2.0。
   - 语言: PHP | 星标: 64,380 (今日+152)
+- **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
+  - 语言: Rust | 星标: 5,418 (今日+117)
 
 ## Content Creation (6)
 
@@ -36,7 +38,7 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (20)
+## Agent Skills (21)
 
 - **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
   - 语言: Python | 星标: 2,956 (今日+11)
@@ -78,6 +80,8 @@
   - 语言: HTML | 星标: 26,749 (今日+251 · 全场增速第一)
 - **[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)** - 给 AI 编码工具的设计 skill 集 —— 每个 skill 就是一个独立文件夹的 Markdown 规则文件，零依赖分发（cp 到 .claude/skills/ 或 AGENTS.md 即生效）；landing-page-design 覆盖 intake→结构→文案→完整视觉系统，MIT。
   - 语言: Markdown | 星标: 9,331 (今日+1,395 · 全场增速第一 · 仅 5 open issues)
+- **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
+  - 语言: Shell | 星标: 3,576 (今日+90)
 
 ## Ai Agents (12)
 
@@ -132,12 +136,14 @@
 - **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
   - 语言: C | 星标: 2,846 (今日+1,800+)
 
-## Hardware & Robotics (1)
+## Hardware & Robotics (2)
 
 - **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** - 开源双足小鸭子机器人 🦆 —— Reachy 制造商 pollen robotics 出品，Rust 固件 + 开源硬件，桌面玩具级开源机器人。
   - 语言: Rust | 星标: 10,625 (今日+421)
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** - 用 WiFi 的 CSI 做空间感知 —— ESP32 抓信道状态信息，**零摄像头**穿墙测存在/人数/呼吸/心率/跌倒/睡眠分期，无摄像头 17 关键点姿态，HA 21 实体 + Matter 打通四大智能家居，自带 MCP 与 claim-check 诚实性校验，MIT。
+  - 语言: Rust | 星标: 101,055 (今日+557)
 
-## Learning (5)
+## Learning (6)
 
 - **[jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)** - 电子书下载宝库（现象观察收录）—— 聚合帆书/微信读书/京东读书等平台下载链接；零协议、半年未推送，合规风险显著。
   - 语言: Python | 星标: 22,258 (今日+220)
@@ -149,6 +155,8 @@
   - 语言: Python | 星标: 1,593 (今日+900+)
 - **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** - 终身个性化辅导的 agent 原生学习工作台 —— 答疑/出题/研究/可视化/掌握度共享同一能力运行时；CLI 输出 NDJSON 事件流可被别的 agent 驱动、headless 安全，L1/L2/L3 记忆可检视，九种 RAG 引擎并行，Apache-2.0。
   - 语言: Python | 星标: 45,895 (今日+1,598)
+- **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
+  - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
 ## Ml Infra (5)
 
@@ -212,3 +220,4 @@
 - [2026-10-26.md](./daily/2026-10-26.md) - 今日精选
 - [2026-10-27.md](./daily/2026-10-27.md) - 今日精选
 - [2026-10-28.md](./daily/2026-10-28.md) - 今日精选
+- [2026-10-29.md](./daily/2026-10-29.md) - 今日精选
