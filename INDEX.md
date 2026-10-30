@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-29 (共 77 个项目)
+最后更新: 2026-10-30 (共 79 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -23,14 +23,17 @@
 - **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
   - 语言: Rust | 星标: 5,418 (今日+117)
 
-## Content Creation (6)
+## Content Creation (7)
+
+- **[basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)** - 面向 AI 创作的开源无限画布工作台 —— 画布编排+AI 生图/参考图编辑/视频生成/画布助手/提示词库/素材库一体，本地 Canvas Agent 经 MCP 操作画布，数据全存浏览器 IndexedDB，兼容 OpenAI 中转生态，MIT。
+  - 语言: TypeScript | 星标: 9,400 (2026-10-30 收录 · fork 率 23.5%)
 
 - **[storytold/artcraft](https://github.com/storytold/artcraft)** - 艺术家的 IDE —— 在 2D 里构图、在 3D 里布景，先搭好画面再让 AI 生成，把 prompt 变成可控的 crafting，Rust 桌面应用。
   - 语言: Rust | 星标: 7,937 (2026-10-08 收录)
 - **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** - 艺术动画 skill —— 35 种艺术风格、9 种解说语法，用代码让画动起来，MIT。
   - 语言: JavaScript | 星标: 2,870 (2026-10-10 收录)
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 给一个主题，全自动产出一条 1080P 高清短视频 —— 脚本/素材/配音/字幕/BGM 一条龙，最快一分钟出片，MIT。
-  - 语言: Python | 星标: 125.2K (2026-09-23 收录)
+  - 语言: Python | 星标: 136,346 (2026-10-30 复核；Trending 日榜 #1 · 全球 #81)
 - **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - 阿里工业级代码 review 基础设施 —— 确定性管道 + LLM Agent 混合架构，行级精准评论，内置多语言规则集（NPE/线程安全/XSS/SQL 注入），Apache-2.0。
   - 语言: Go | 星标: 45,213 (2026-10-10 收录)
 - **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** - AI 把文档或主题变成真正的原生 PowerPoint —— 原生形状/转场/动画、数据支撑的图表与表格、备注转旁白配音、支持自有 .pptx 模板。
@@ -82,6 +85,8 @@
   - 语言: Markdown | 星标: 9,331 (今日+1,395 · 全场增速第一 · 仅 5 open issues)
 - **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
   - 语言: Shell | 星标: 3,576 (今日+90)
+- **[CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** - 让任意大模型接管 Windows 桌面的 MCP server —— 鼠标/键盘/截屏/窗口/文件全权操作，computer use 路线不挑模型，Claude Desktop 扩展用户 2M+；⚠️ 系统级执行能力，建议 VM 内跑，MIT。
+  - 语言: Python | 星标: 10,737 (2026-10-30 收录)
 
 ## Ai Agents (12)
 
@@ -154,7 +159,7 @@
 - **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
   - 语言: Python | 星标: 1,593 (今日+900+)
 - **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** - 终身个性化辅导的 agent 原生学习工作台 —— 答疑/出题/研究/可视化/掌握度共享同一能力运行时；CLI 输出 NDJSON 事件流可被别的 agent 驱动、headless 安全，L1/L2/L3 记忆可检视，九种 RAG 引擎并行，Apache-2.0。
-  - 语言: Python | 星标: 45,895 (今日+1,598)
+  - 语言: Python | 星标: 50,568 (2026-10-30 复核，较 10-28 收录时 +4,673)
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
