@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-10-30 (共 79 个项目)
+最后更新: 2026-11-01 (共 84 个项目)
 
 
 ## AI Speech & Local Tools (2)
@@ -23,17 +23,14 @@
 - **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
   - 语言: Rust | 星标: 5,418 (今日+117)
 
-## Content Creation (7)
-
-- **[basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)** - 面向 AI 创作的开源无限画布工作台 —— 画布编排+AI 生图/参考图编辑/视频生成/画布助手/提示词库/素材库一体，本地 Canvas Agent 经 MCP 操作画布，数据全存浏览器 IndexedDB，兼容 OpenAI 中转生态，MIT。
-  - 语言: TypeScript | 星标: 9,400 (2026-10-30 收录 · fork 率 23.5%)
+## Content Creation (6)
 
 - **[storytold/artcraft](https://github.com/storytold/artcraft)** - 艺术家的 IDE —— 在 2D 里构图、在 3D 里布景，先搭好画面再让 AI 生成，把 prompt 变成可控的 crafting，Rust 桌面应用。
   - 语言: Rust | 星标: 7,937 (2026-10-08 收录)
 - **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** - 艺术动画 skill —— 35 种艺术风格、9 种解说语法，用代码让画动起来，MIT。
   - 语言: JavaScript | 星标: 2,870 (2026-10-10 收录)
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 给一个主题，全自动产出一条 1080P 高清短视频 —— 脚本/素材/配音/字幕/BGM 一条龙，最快一分钟出片，MIT。
-  - 语言: Python | 星标: 136,346 (2026-10-30 复核；Trending 日榜 #1 · 全球 #81)
+  - 语言: Python | 星标: 125.2K (2026-09-23 收录)
 - **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - 阿里工业级代码 review 基础设施 —— 确定性管道 + LLM Agent 混合架构，行级精准评论，内置多语言规则集（NPE/线程安全/XSS/SQL 注入），Apache-2.0。
   - 语言: Go | 星标: 45,213 (2026-10-10 收录)
 - **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** - AI 把文档或主题变成真正的原生 PowerPoint —— 原生形状/转场/动画、数据支撑的图表与表格、备注转旁白配音、支持自有 .pptx 模板。
@@ -41,8 +38,10 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (21)
+## Agent Skills (22)
 
+- **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** - 把 Claude Code 变成完整游戏开发工作室 —— 49 个 AI agent + 72 个工作流 skill + 完整协调系统，镜像真实 studio 层级（制作人/策划/美术/程序/QA），MIT。
+  - 语言: Shell | 星标: 31,359 (今日+742)
 - **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** - AWS 官方 Agent 工具箱 —— MCP servers + skills + plugins，让 Claude Code/Cursor 直接操作 AWS 资源，Apache-2.0。
   - 语言: Python | 星标: 2,956 (今日+11)
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** - 反 AI-slop 设计 skill —— 给 Claude Code/Cursor/Codex 注入设计品味约束，专治紫渐变圆角卡片千篇一律，MIT。
@@ -85,11 +84,13 @@
   - 语言: Markdown | 星标: 9,331 (今日+1,395 · 全场增速第一 · 仅 5 open issues)
 - **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
   - 语言: Shell | 星标: 3,576 (今日+90)
-- **[CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** - 让任意大模型接管 Windows 桌面的 MCP server —— 鼠标/键盘/截屏/窗口/文件全权操作，computer use 路线不挑模型，Claude Desktop 扩展用户 2M+；⚠️ 系统级执行能力，建议 VM 内跑，MIT。
-  - 语言: Python | 星标: 10,737 (2026-10-30 收录)
 
-## Ai Agents (12)
+## Ai Agents (14)
 
+- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - 开源 Grok Bot 替代品 —— 桌面（Electron）+ 移动端（Expo）承载 Claude Code/Codex 等 harness，自带 computer-use 沙箱 VM 供 bot 自主操作环境，Apache-2.0；⚠️ 3 个月大、617 open issues，VM 安全边界早期。
+  - 语言: TypeScript | 星标: 9,878 (今日+1,303 · 全场第一)
+- **[Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)** - 桌面本地优先 AI 团队 —— Commander 把目标拆成 to-do，协调 16 个内置专家 agent + Claude Code/Codex/OpenCode/OpenClaw/Hermes，带项目/定时自动化/connectors，macOS & Windows 免费应用，MIT。
+  - 语言: JavaScript | 星标: 6,838 (今日+1,044)
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** - Google 官方终端 AI Agent —— Gemini 直入终端，MCP client/server 双端支持，与 Claude Code/OpenCode 三足鼎立，Apache-2.0。
   - 语言: TypeScript | 星标: 107,580 (今日+38)
 - **[makecindy/cindy](https://github.com/makecindy/cindy)** - 开箱即用全端开源 AI Agent —— Electron + iOS + Android，底层接 Claude Code/Codex，与 orca 同生态位；⚠️ 1,895 open issues 待观察。
@@ -127,8 +128,10 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (1)
+## Developer Tools (2)
 
+- **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** - 为 AI 和自动化设计的无头浏览器 —— Zig 从头写引擎，极低内存/快速启动，原生 CDP server 兼容 Playwright/Puppeteer 零改造成本，AGPL-3.0。
+  - 语言: Zig | 星标: 39,403 (今日+929)
 - **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** - 为 AI agent 设计的 Git —— 把 AI agent 的代码改动纳入 Git 工作流（attribution / commit / branch 等），让 agent 像人类开发者一样被版本管理。
   - 语言: Go | 星标: 1,271 (今日+800+)
 
@@ -148,8 +151,12 @@
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** - 用 WiFi 的 CSI 做空间感知 —— ESP32 抓信道状态信息，**零摄像头**穿墙测存在/人数/呼吸/心率/跌倒/睡眠分期，无摄像头 17 关键点姿态，HA 21 实体 + Matter 打通四大智能家居，自带 MCP 与 claim-check 诚实性校验，MIT。
   - 语言: Rust | 星标: 101,055 (今日+557)
 
-## Learning (6)
+## Learning (8)
 
+- **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - Open Multi-Agent Interactive Classroom —— 清华系开源多智能体互动课堂，一键进入沉浸式 multi-agent 学习体验，MIT；4.2 万星为本次收录最高，热度已过峰值。
+  - 语言: TypeScript | 星标: 42,275 (今日+116)
+- **[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)** - DevOps 面试题库常青树 —— Linux/Jenkins/AWS/SRE/Prometheus/Docker/K8s/Terraform/Ansible/Git/SQL 全覆盖，fork 率 23.9%；⚠️ 自定义协议、已 10 个月未推送。
+  - 语言: Python | 星标: 86,125 (今日+342)
 - **[jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)** - 电子书下载宝库（现象观察收录）—— 聚合帆书/微信读书/京东读书等平台下载链接；零协议、半年未推送，合规风险显著。
   - 语言: Python | 星标: 22,258 (今日+220)
 - **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** - 紫微斗数开源排盘引擎 —— 倪海厦《天纪》体系，67.5 万命盘 × 13 维 = 877 万段解读（204 亿字），断语逐句可溯源；代码 MIT / 数据 CC BY 4.0。
@@ -159,7 +166,7 @@
 - **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** - 中小学数学知识图谱 + 自适应前置诊断 —— 课标对齐（人教版），999 知识点、4143 题，覆盖一至九年级 + 高中必修与选择性必修；额外含小学英语。
   - 语言: Python | 星标: 1,593 (今日+900+)
 - **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** - 终身个性化辅导的 agent 原生学习工作台 —— 答疑/出题/研究/可视化/掌握度共享同一能力运行时；CLI 输出 NDJSON 事件流可被别的 agent 驱动、headless 安全，L1/L2/L3 记忆可检视，九种 RAG 引擎并行，Apache-2.0。
-  - 语言: Python | 星标: 50,568 (2026-10-30 复核，较 10-28 收录时 +4,673)
+  - 语言: Python | 星标: 45,895 (今日+1,598)
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
@@ -201,8 +208,10 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (3)
+## System Tools (4)
 
+- **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** - 免费开源 macOS 菜单栏工具箱 —— alt-tab 窗口切换/应用卸载/keep-awake 成套，对标 Raycast/Alfred 生态单个付费小工具，GPL-3.0。
+  - 语言: Swift | 星标: 32,046 (今日+501)
 - **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** - 通过 Wi-Fi 远程精简 Android/Google TV，让电视变成 Apple TV 风格极简主页 —— 无需 root，跨网段 ADB 操作。
   - 语言: Java | 星标: 11,978 (今日+3,000+)
 - **[ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)** - WinUI app for building smaller, customized Windows 11 images....
@@ -226,3 +235,4 @@
 - [2026-10-27.md](./daily/2026-10-27.md) - 今日精选
 - [2026-10-28.md](./daily/2026-10-28.md) - 今日精选
 - [2026-10-29.md](./daily/2026-10-29.md) - 今日精选
+- [2026-11-01.md](./daily/2026-11-01.md) - 今日精选
