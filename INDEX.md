@@ -1,14 +1,24 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-01 (共 84 个项目)
+最后更新: 2026-11-02 (共 93 个项目)
 
 
-## AI Speech & Local Tools (2)
+## AI Speech & Local Tools (4)
 
+- **[anomalyco/hex](https://github.com/anomalyco/hex)** - 本地语音听写（mac/windows/linux）—— 系统级全局听写、local-first 语音数据不出机，Rust；3 个半月 3.2 千星、今日 +1,179 全场增速第二，MIT。
+  - 语言: Rust | 星标: 3,269 (今日+1,179)
+- **[cjpais/Handy](https://github.com/cjpais/Handy)** - 完全离线的免费开源语音转文字应用 —— Rust + Tauri v2 跨平台，隐私优先听写，带 accessibility 标签，MIT。
+  - 语言: Rust | 星标: 36,547 (今日+339)
 - **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** - Tokenizer-Free 多语言 TTS —— 面壁智能 2B 模型 / 200 万小时语料 / 30 语言 + 中文方言，diffusion autoregressive 直出 48kHz，Apache-2.0 可商用。
   - 语言: Python | 星标: 40,257 (今日+150)
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
   - 语言: Python | 星标: 83,354（2026-10-14 收录）
+## Ai Science & Resources (2)
+
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - 免费 API 大全 —— GitHub 史上最受欢迎仓库之一，agent/RAG 项目选外部 API 的第一站，MIT；⚠️ 2,507 open issues，条目失效需自行验证。
+  - 语言: Python | 星标: 494,609 (今日+324)
+- **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
+  - 语言: Python | 星标: 11,786 (今日+101)
 
 ## Backend Platform (5)
 
@@ -85,8 +95,10 @@
 - **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
   - 语言: Shell | 星标: 3,576 (今日+90)
 
-## Ai Agents (14)
+## Ai Agents (15)
 
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** - 开源 AI 同事（AI coworkers）—— 每个 agent 一台专属电脑（浏览器+文件+工具），动作决策在前、执行在后、全程留痕，接任意 AG-UI agent；治理层而非又一个 harness，CopilotKit 官方出品，MIT。
+  - 语言: TypeScript | 星标: 9,520 (今日+175)
 - **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - 开源 Grok Bot 替代品 —— 桌面（Electron）+ 移动端（Expo）承载 Claude Code/Codex 等 harness，自带 computer-use 沙箱 VM 供 bot 自主操作环境，Apache-2.0；⚠️ 3 个月大、617 open issues，VM 安全边界早期。
   - 语言: TypeScript | 星标: 9,878 (今日+1,303 · 全场第一)
 - **[Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)** - 桌面本地优先 AI 团队 —— Commander 把目标拆成 to-do，协调 16 个内置专家 agent + Claude Code/Codex/OpenCode/OpenClaw/Hermes，带项目/定时自动化/connectors，macOS & Windows 免费应用，MIT。
@@ -151,8 +163,10 @@
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** - 用 WiFi 的 CSI 做空间感知 —— ESP32 抓信道状态信息，**零摄像头**穿墙测存在/人数/呼吸/心率/跌倒/睡眠分期，无摄像头 17 关键点姿态，HA 21 实体 + Matter 打通四大智能家居，自带 MCP 与 claim-check 诚实性校验，MIT。
   - 语言: Rust | 星标: 101,055 (今日+557)
 
-## Learning (8)
+## Learning (9)
 
+- **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** - LLM/RAG/AI Agent 实战教程集 —— notebook 级教程跟新模型节奏走，AI 工程学习第一入口；今日 +1,191 全场增速第一，MIT。
+  - 语言: Jupyter Notebook | 星标: 40,241 (今日+1,191)
 - **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - Open Multi-Agent Interactive Classroom —— 清华系开源多智能体互动课堂，一键进入沉浸式 multi-agent 学习体验，MIT；4.2 万星为本次收录最高，热度已过峰值。
   - 语言: TypeScript | 星标: 42,275 (今日+116)
 - **[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)** - DevOps 面试题库常青树 —— Linux/Jenkins/AWS/SRE/Prometheus/Docker/K8s/Terraform/Ansible/Git/SQL 全覆盖，fork 率 23.9%；⚠️ 自定义协议、已 10 个月未推送。
@@ -170,8 +184,10 @@
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
-## Ml Infra (5)
+## Ml Infra (6)
 
+- **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** - 把数据中心级模型 serving 搬到桌面 —— 大参数 MoE（deepseek-v4/glm/minimax/qwen）本地跑，3 个半月 1.5 万星，Apache-2.0；⚠️ 470 open issues，硬件适配长尾是持久战。
+  - 语言: Python | 星标: 15,402 (今日+242)
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world....
   - 语言: Python | 星标: 138,616 (今日+154)
 - **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** - 在数据到达 LLM 之前压缩工具输出、日志、文件和 RAG 块 —— 编程 Agent 省 20% tokens，JSON 省 60-95%。
@@ -194,8 +210,10 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (3)
+## Security Ai (4)
 
+- **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** - 开源 AI 安全运营中心（SOC）—— 告警融合 + LLM-agent 分诊 + MITRE ATT&CK 调查 + 可回放决策台账，自托管零 API key、LangGraph 驱动、自带 MCP server，MIT。
+  - 语言: Python | 星标: 6,218 (今日+446)
 - **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** - Fully autonomous AI Agents system capable of performing complex penetration testing tasks...
   - 语言: Go | 星标: 29,464 (今日+1,025)
 - **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** - AI agent skill 安全扫描器 —— 安装前扫出提示注入/数据外泄/提权/供应链/记忆投毒等 71 个模式、17 个类别；官方样本 31,132 个 skill 中 26.1% 含漏洞、5.2% 疑似恶意；已进入 NVIDIA Verified Skills 扫描-签名管线，Apache-2.0。
@@ -208,8 +226,10 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (4)
+## System Tools (5)
 
+- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** - 高颜值动态平铺 Wayland 合成器 —— Linux 桌面美学标杆，fork 率仅 5.4%（拿来就用），BSD-3-Clause。
+  - 语言: C++ | 星标: 39,369 (今日+38)
 - **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** - 免费开源 macOS 菜单栏工具箱 —— alt-tab 窗口切换/应用卸载/keep-awake 成套，对标 Raycast/Alfred 生态单个付费小工具，GPL-3.0。
   - 语言: Swift | 星标: 32,046 (今日+501)
 - **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** - 通过 Wi-Fi 远程精简 Android/Google TV，让电视变成 Apple TV 风格极简主页 —— 无需 root，跨网段 ADB 操作。
@@ -236,3 +256,4 @@
 - [2026-10-28.md](./daily/2026-10-28.md) - 今日精选
 - [2026-10-29.md](./daily/2026-10-29.md) - 今日精选
 - [2026-11-01.md](./daily/2026-11-01.md) - 今日精选
+- [2026-11-02.md](./daily/2026-11-02.md) - 今日精选
