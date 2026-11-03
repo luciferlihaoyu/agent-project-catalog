@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-02 (共 93 个项目)
+最后更新: 2026-11-03 (共 100 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -13,8 +13,10 @@
   - 语言: Python | 星标: 40,257 (今日+150)
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
   - 语言: Python | 星标: 83,354（2026-10-14 收录）
-## Ai Science & Resources (2)
+## Ai Science & Resources (3)
 
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** - 100 美元能买到的最好 ChatGPT —— Karpathy 全栈自训 LLM 教材级实现（预训→微调→评估→部署），MIT；一年 6 万星，⚠️ 已进入维护期。
+  - 语言: Python | 星标: 59,890 (今日+321)
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis)** - 免费 API 大全 —— GitHub 史上最受欢迎仓库之一，agent/RAG 项目选外部 API 的第一站，MIT；⚠️ 2,507 open issues，条目失效需自行验证。
   - 语言: Python | 星标: 494,609 (今日+324)
 - **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
@@ -95,8 +97,12 @@
 - **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
   - 语言: Shell | 星标: 3,576 (今日+90)
 
-## Ai Agents (15)
+## Ai Agents (17)
 
+- **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** - 给 AI agent 的 computer use CLI —— 截屏/键鼠/无障碍 API 三合一，agent 直接操作桌面 GUI，Vercel Labs 出品，Apache-2.0；9 个月近万星、今日 +2,275 全场增速第一。
+  - 语言: Rust | 星标: 9,672 (今日+2,275)
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** - 管理工作 agent 的开源应用 —— 团队级 agent 编排/任务分配/治理工作台，MIT；8 个月 11 万星、fork 率 16.6%，⚠️ 6,616 open issues 属高速膨胀期。
+  - 语言: TypeScript | 星标: 110,393 (今日+412)
 - **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** - 开源 AI 同事（AI coworkers）—— 每个 agent 一台专属电脑（浏览器+文件+工具），动作决策在前、执行在后、全程留痕，接任意 AG-UI agent；治理层而非又一个 harness，CopilotKit 官方出品，MIT。
   - 语言: TypeScript | 星标: 9,520 (今日+175)
 - **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - 开源 Grok Bot 替代品 —— 桌面（Electron）+ 移动端（Expo）承载 Claude Code/Codex 等 harness，自带 computer-use 沙箱 VM 供 bot 自主操作环境，Apache-2.0；⚠️ 3 个月大、617 open issues，VM 安全边界早期。
@@ -140,8 +146,12 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (2)
+## Developer Tools (4)
 
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** - 自适应反爬的 Python 爬虫框架 —— 单请求到全站爬取一个 API 搞定、页面结构变更自动重定位，BSD-3-Clause；两年 9.3 万星、open issues 仅 9 个，维护干净度罕见。
+  - 语言: Python | 星标: 92,855 (今日+706)
+- **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** - Git worktree 管理 CLI —— 为并行 AI agent 工作流设计（claude-code/codex topics），fork 率 3.6% 拿来就用；⚠️ 协议 NOASSERTION 商用前确认。
+  - 语言: Rust | 星标: 10,032 (今日+77)
 - **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** - 为 AI 和自动化设计的无头浏览器 —— Zig 从头写引擎，极低内存/快速启动，原生 CDP server 兼容 Playwright/Puppeteer 零改造成本，AGPL-3.0。
   - 语言: Zig | 星标: 39,403 (今日+929)
 - **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** - 为 AI agent 设计的 Git —— 把 AI agent 的代码改动纳入 Git 工作流（attribution / commit / branch 等），让 agent 像人类开发者一样被版本管理。
@@ -184,8 +194,10 @@
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
-## Ml Infra (6)
+## Ml Infra (7)
 
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** - 在手头硬件上跑前沿 MoE 大模型 —— 纯 C 零依赖、专家权重从磁盘流式加载，Apache-2.0；4 个月 4.7 万星，「小机器跑大模型」的极简主义路线。
+  - 语言: C | 星标: 46,541 (今日+675)
 - **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** - 把数据中心级模型 serving 搬到桌面 —— 大参数 MoE（deepseek-v4/glm/minimax/qwen）本地跑，3 个半月 1.5 万星，Apache-2.0；⚠️ 470 open issues，硬件适配长尾是持久战。
   - 语言: Python | 星标: 15,402 (今日+242)
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world....
@@ -210,8 +222,10 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (4)
+## Security Ai (5)
 
+- **[p-e-w/heretic](https://github.com/p-e-w/heretic)** - 免训练的 LLM 行为修改工具 —— 移除审查/抑制 slop/减少谄媚，一键 abliteration，AGPL-3.0；⚠️ 仅限自有/开源权重模型研究场景。
+  - 语言: Python | 星标: 38,102 (今日+420)
 - **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** - 开源 AI 安全运营中心（SOC）—— 告警融合 + LLM-agent 分诊 + MITRE ATT&CK 调查 + 可回放决策台账，自托管零 API key、LangGraph 驱动、自带 MCP server，MIT。
   - 语言: Python | 星标: 6,218 (今日+446)
 - **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** - Fully autonomous AI Agents system capable of performing complex penetration testing tasks...
@@ -257,3 +271,4 @@
 - [2026-10-29.md](./daily/2026-10-29.md) - 今日精选
 - [2026-11-01.md](./daily/2026-11-01.md) - 今日精选
 - [2026-11-02.md](./daily/2026-11-02.md) - 今日精选
+- [2026-11-03.md](./daily/2026-11-03.md) - 今日精选
