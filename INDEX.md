@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-03 (共 100 个项目)
+最后更新: 2026-11-04 (共 103 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -50,7 +50,7 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (22)
+## Agent Skills (23)
 
 - **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** - 把 Claude Code 变成完整游戏开发工作室 —— 49 个 AI agent + 72 个工作流 skill + 完整协调系统，镜像真实 studio 层级（制作人/策划/美术/程序/QA），MIT。
   - 语言: Shell | 星标: 31,359 (今日+742)
@@ -96,8 +96,10 @@
   - 语言: Markdown | 星标: 9,331 (今日+1,395 · 全场增速第一 · 仅 5 open issues)
 - **[expo/skills](https://github.com/expo/skills)** - Expo 官方 agent skill 集合 —— 构建/部署/升级/调试 Expo 应用的官方教材，Framework（免费 SDK）与 Services（付费 EAS）分组，**免费/付费边界写进 skill 描述**，Claude Code/Codex 走官方插件市场、其余 10+ agent 走 skills CLI，MIT。
   - 语言: Shell | 星标: 3,576 (今日+90)
+- **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
+  - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Ai Agents (17)
+## Ai Agents (18)
 
 - **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** - 给 AI agent 的 computer use CLI —— 截屏/键鼠/无障碍 API 三合一，agent 直接操作桌面 GUI，Vercel Labs 出品，Apache-2.0；9 个月近万星、今日 +2,275 全场增速第一。
   - 语言: Rust | 星标: 9,672 (今日+2,275)
@@ -133,6 +135,8 @@
   - 语言: TypeScript | 星标: 1,475 (今日+176)
 - **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** - JetBrains 孵化的 Agent 宿主 IDE —— 给第三方 `pi` Agent 套真 IDE（Monaco + 终端 + 文件树），git worktree 隔离并行工作区，living specs（SPEC.md 关系图）让意图跨会话存活，PR 为终态，Apache-2.0。
   - 语言: TypeScript | 星标: 1,734 (今日+51)
+- **[Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** - 基于 Playwright + AI 的闲鱼多任务实时/定时监控与智能分析系统 —— 带后台管理 UI，「AI agent + 浏览器自动化」中文场景样本，MIT；fork 率 17.4% 自改自用玩家多，⚠️ 近月无更新、平台合规风险自担。
+  - 语言: Python | 星标: 16,364 (今日+228)
 
 ## Ai Auditing (1)
 
@@ -146,7 +150,7 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (4)
+## Developer Tools (5)
 
 - **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** - 自适应反爬的 Python 爬虫框架 —— 单请求到全站爬取一个 API 搞定、页面结构变更自动重定位，BSD-3-Clause；两年 9.3 万星、open issues 仅 9 个，维护干净度罕见。
   - 语言: Python | 星标: 92,855 (今日+706)
@@ -156,6 +160,8 @@
   - 语言: Zig | 星标: 39,403 (今日+929)
 - **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** - 为 AI agent 设计的 Git —— 把 AI agent 的代码改动纳入 Git 工作流（attribution / commit / branch 等），让 agent 像人类开发者一样被版本管理。
   - 语言: Go | 星标: 1,271 (今日+800+)
+- **[floci-io/floci](https://github.com/floci-io/floci)** - AWS 本地模拟器的开源新选择 —— EC2/ECS/S3 等整套本地模拟，LocalStack 替代品，MIT；8 个半月 28.8 千星、当日 +482 增速领先，最后推送即当日维护活跃。
+  - 语言: Java | 星标: 28,773 (今日+482)
 
 ## Games (3)
 
@@ -272,3 +278,4 @@
 - [2026-11-01.md](./daily/2026-11-01.md) - 今日精选
 - [2026-11-02.md](./daily/2026-11-02.md) - 今日精选
 - [2026-11-03.md](./daily/2026-11-03.md) - 今日精选
+- [2026-11-04.md](./daily/2026-11-04.md) - 今日精选
