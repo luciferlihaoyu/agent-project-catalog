@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-04 (共 103 个项目)
+最后更新: 2026-11-05 (共 113 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -50,7 +50,12 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (23)
+## Agent Skills (25)
+
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** - Garry Tan（YC 总裁）本人 Claude Code 工作流完整开源 —— 23 个 opinionated 工具当 CEO/Designer/Eng Manager/Release Manager/Doc Engineer/QA，微型公司式 agent 编排；8 个月 13.9 万星，MIT。
+  - 语言: TypeScript | 星标: 139,339 (今日+290)
+- **[scenario-labs/skills](https://github.com/scenario-labs/skills)** - 让任意 agent 出生产级图像/视频/音频/3D 的 skills —— 自动选模型、花钱前先报价、跨调用保持角色/品牌一致，走 Scenario MCP，另带 Blender/Maya/ZBrush/Unreal/Unity 专家 skills，MIT。
+  - 语言: Python | 星标: 2,437 (今日+224)
 
 - **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** - 把 Claude Code 变成完整游戏开发工作室 —— 49 个 AI agent + 72 个工作流 skill + 完整协调系统，镜像真实 studio 层级（制作人/策划/美术/程序/QA），MIT。
   - 语言: Shell | 星标: 31,359 (今日+742)
@@ -143,14 +148,22 @@
 - **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
   - 语言: Python | 星标: 27,409 (今日+2,109)
 
-## Data Intelligence (2)
+## Data Intelligence (3)
+
+- **[Thysrael/Horizon](https://github.com/Thysrael/Horizon)** - AI 个人新闻雷达 —— 自动聚合生成中英双语每日简报，自带 feishu-bot 推送 + MCP + webhook，Topics 直接带 openclaw 标签，MIT；"个人助理自动播报"赛道开源自托管样本。
+  - 语言: Python | 星标: 12,488 (今日+121)
 
 - **[strelov1/freehire](https://github.com/strelov1/freehire)** - freehire — the open-source search engine for job seekers —— 面向求职者的开源职位搜索：直取各公司招聘官网 330 万+ 实时职位，不经中介转载，Go + Meilisearch + LLM 匹配。
   - 语言: Go | 星标: 2,383 (今日+360)
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (5)
+## Developer Tools (7)
+
+- **[github/spec-kit](https://github.com/github/spec-kit)** - GitHub 官方 SDD（Spec-Driven Development）工具包 —— 先写规格、由规格驱动 AI 实现，把生成代码放进有约束的工程流程；14.7 万星仍日增 800+，MIT。
+  - 语言: Python | 星标: 147,304 (今日+808)
+- **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** - 开源 PR Reviewer 鼻祖 —— AI 自动审 PR（描述/改进建议/提问），支持自托管与任意模型（含 Ollama）；"去 Qodo 化"独立运营新起点，MIT。
+  - 语言: Python | 星标: 14,756 (今日+280)
 
 - **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** - 自适应反爬的 Python 爬虫框架 —— 单请求到全站爬取一个 API 搞定、页面结构变更自动重定位，BSD-3-Clause；两年 9.3 万星、open issues 仅 9 个，维护干净度罕见。
   - 语言: Python | 星标: 92,855 (今日+706)
@@ -179,7 +192,10 @@
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** - 用 WiFi 的 CSI 做空间感知 —— ESP32 抓信道状态信息，**零摄像头**穿墙测存在/人数/呼吸/心率/跌倒/睡眠分期，无摄像头 17 关键点姿态，HA 21 实体 + Matter 打通四大智能家居，自带 MCP 与 claim-check 诚实性校验，MIT。
   - 语言: Rust | 星标: 101,055 (今日+557)
 
-## Learning (9)
+## Learning (10)
+
+- **[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)** - 90 天 DevOps 公开学习计划 —— 三年沉淀成结构化学习地图（K8s/Terraform/Ansible/网络/备份），配套网站；⚠️ 2026-06 后停更、协议自定义，路线图向仍有效。
+  - 语言: Shell | 星标: 30,420 (今日+97)
 
 - **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** - LLM/RAG/AI Agent 实战教程集 —— notebook 级教程跟新模型节奏走，AI 工程学习第一入口；今日 +1,191 全场增速第一，MIT。
   - 语言: Jupyter Notebook | 星标: 40,241 (今日+1,191)
@@ -246,7 +262,10 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (5)
+## System Tools (6)
+
+- **[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** - 光盘盘面可见图像生成与刻录工具 —— 把图片转成符合 CD/DVD/蓝光物理层约束的数据，刻完盘面呈现肉眼可见图案；三平台 .NET 10，GPL-3.0，今日 +1,778 全场第二。
+  - 语言: C# | 星标: 6,607 (今日+1,778)
 
 - **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** - 高颜值动态平铺 Wayland 合成器 —— Linux 桌面美学标杆，fork 率仅 5.4%（拿来就用），BSD-3-Clause。
   - 语言: C++ | 星标: 39,369 (今日+38)
@@ -279,3 +298,4 @@
 - [2026-11-02.md](./daily/2026-11-02.md) - 今日精选
 - [2026-11-03.md](./daily/2026-11-03.md) - 今日精选
 - [2026-11-04.md](./daily/2026-11-04.md) - 今日精选
+- [2026-11-05.md](./daily/2026-11-05.md) - 今日精选
