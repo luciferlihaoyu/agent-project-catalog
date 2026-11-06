@@ -1,11 +1,11 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-05 (共 113 个项目)
+最后更新: 2026-11-06 (共 118 个项目)
 
 
 ## AI Speech & Local Tools (4)
 
-- **[anomalyco/hex](https://github.com/anomalyco/hex)** - 本地语音听写（mac/windows/linux）—— 系统级全局听写、local-first 语音数据不出机，Rust；3 个半月 3.2 千星、今日 +1,179 全场增速第二，MIT。
+-5**[anomalyco/hex](https://github.com/anomalyco/hex)** - 本地语音听写（mac/windows/linux）—— 系统级全局听写、local-first 语音数据不出机，Rust；3 个半月 3.2 千星、今日 +1,179 全场增速第二，MIT。
   - 语言: Rust | 星标: 3,269 (今日+1,179)
 - **[cjpais/Handy](https://github.com/cjpais/Handy)** - 完全离线的免费开源语音转文字应用 —— Rust + Tauri v2 跨平台，隐私优先听写，带 accessibility 标签，MIT。
   - 语言: Rust | 星标: 36,547 (今日+339)
@@ -50,8 +50,12 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (25)
+## Agent Skills (27)
 
+- **[google/skills](https://github.com/google/skills)** - Google 官方 Agent Skills 仓库 —— 为 Google 产品与技术发布官方 skills，Skills 生态正式升级为跨厂商标准；Apache-2.0。
+  - 语言: Python | 星标: 22,369 (今日+211)
+- **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** - ConardLi 开源 Skills 合集 —— Web 设计/RAG/图像生成（gpt-image-2）等中文社区热门 agent 技能包，MIT。⚠️ 最后推送 2026-10-25。
+  - 语言: JavaScript | 星标: 14,129 (今日+175)
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Garry Tan（YC 总裁）本人 Claude Code 工作流完整开源 —— 23 个 opinionated 工具当 CEO/Designer/Eng Manager/Release Manager/Doc Engineer/QA，微型公司式 agent 编排；8 个月 13.9 万星，MIT。
   - 语言: TypeScript | 星标: 139,339 (今日+290)
 - **[scenario-labs/skills](https://github.com/scenario-labs/skills)** - 让任意 agent 出生产级图像/视频/音频/3D 的 skills —— 自动选模型、花钱前先报价、跨调用保持角色/品牌一致，走 Scenario MCP，另带 Blender/Maya/ZBrush/Unreal/Unity 专家 skills，MIT。
@@ -158,8 +162,10 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (7)
+## Developer Tools (8)
 
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - 为 AI agent 设计的浏览器自动化 CLI —— Rust 实现，10 个月 45.9k 星；与 lightpanda/browser 同赛道走 CLI 直调路线，fork 率 6.9%。⚠️ 489 open issues。
+  - 语言: Rust | 星标: 45,883 (今日+150)
 - **[github/spec-kit](https://github.com/github/spec-kit)** - GitHub 官方 SDD（Spec-Driven Development）工具包 —— 先写规格、由规格驱动 AI 实现，把生成代码放进有约束的工程流程；14.7 万星仍日增 800+，MIT。
   - 语言: Python | 星标: 147,304 (今日+808)
 - **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** - 开源 PR Reviewer 鼻祖 —— AI 自动审 PR（描述/改进建议/提问），支持自托管与任意模型（含 Ollama）；"去 Qodo 化"独立运营新起点，MIT。
@@ -262,8 +268,10 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (6)
+## System Tools (7)
 
+- **[lz4/lz4](https://github.com/lz4/lz4)** - 极快的无损压缩算法 —— 2014 年至今的数据基础设施压舱石，老经典重回 Trending；issues 仅 6 个、当日仍在推送。
+  - 语言: C | 星标: 12,383 (今日+23)
 - **[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** - 光盘盘面可见图像生成与刻录工具 —— 把图片转成符合 CD/DVD/蓝光物理层约束的数据，刻完盘面呈现肉眼可见图案；三平台 .NET 10，GPL-3.0，今日 +1,778 全场第二。
   - 语言: C# | 星标: 6,607 (今日+1,778)
 
@@ -299,3 +307,4 @@
 - [2026-11-03.md](./daily/2026-11-03.md) - 今日精选
 - [2026-11-04.md](./daily/2026-11-04.md) - 今日精选
 - [2026-11-05.md](./daily/2026-11-05.md) - 今日精选
+- [2026-11-06.md](./daily/2026-11-06.md) - 今日精选
