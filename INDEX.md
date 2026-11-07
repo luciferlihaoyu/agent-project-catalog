@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-06 (共 118 个项目)
+最后更新: 2026-11-07 (共 128 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -22,10 +22,14 @@
 - **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
   - 语言: Python | 星标: 11,786 (今日+101)
 
-## Backend Platform (5)
+## Backend Platform (7)
 
 - **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
   - 语言: Python | 星标: 103,747 (今日+101)
+- **[rails/rails](https://github.com/rails/rails)** - MVC 全栈 Web 框架的常青树 —— 约定优于配置，2008 年至今仍是创业公司主力框架，MIT；fork 率 40.4% 深度定制普遍。
+  - 语言: Ruby | 星标: 59,025 (今日+142)
+- **[symfony/symfony](https://github.com/symfony/symfony)** - PHP 生态的企业级组件化框架 —— Laravel 之外的另一半 PHP 世界，组件可独立复用，MIT；3 万星体量 open issues 仅 266。
+  - 语言: PHP | 星标: 31,429 (今日+128)
 - **[supabase/supabase](https://github.com/supabase/supabase)** - The Postgres development platform —— 开源 Postgres 应用后端底座：数据库 + Auth + Realtime + Storage + Edge Functions + pgvector 一站式，Apache-2.0 可完全私有化。
   - 语言: TypeScript | 星标: 113,001 (今日+504)
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
@@ -162,7 +166,7 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (8)
+## Developer Tools (12)
 
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - 为 AI agent 设计的浏览器自动化 CLI —— Rust 实现，10 个月 45.9k 星；与 lightpanda/browser 同赛道走 CLI 直调路线，fork 率 6.9%。⚠️ 489 open issues。
   - 语言: Rust | 星标: 45,883 (今日+150)
@@ -181,6 +185,14 @@
   - 语言: Go | 星标: 1,271 (今日+800+)
 - **[floci-io/floci](https://github.com/floci-io/floci)** - AWS 本地模拟器的开源新选择 —— EC2/ECS/S3 等整套本地模拟，LocalStack 替代品，MIT；8 个半月 28.8 千星、当日 +482 增速领先，最后推送即当日维护活跃。
   - 语言: Java | 星标: 28,773 (今日+482)
+- **[zed-industries/zed](https://github.com/zed-industries/zed)** - Atom 团队用 Rust + 自研 GPUI 重写的高性能多人代码编辑器 —— 为速度与实时协作而生；今日 +306 榜首，⚠️ issues 3,027 偏高、协议 NOASSERTION。
+  - 语言: Rust | 星标: 93,624 (今日+306)
+- **[microsoft/vscode](https://github.com/microsoft/vscode)** - 微软出品的开源编辑器事实标准 —— TypeScript + Electron，插件生态最大、AI 集成主线加速演进，MIT。
+  - 语言: TypeScript | 星标: 195,023 (今日+301)
+- **[react/react](https://github.com/react/react)** - Web 与原生 UI 的声明式前端库 —— React 生态核心仓库，React Compiler 等前沿演进的开发主仓，MIT。
+  - 语言: JavaScript | 星标: 252,255 (今日+248)
+- **[angular/angular](https://github.com/angular/angular)** - Google 出品的企业级 Web 框架 —— TypeScript 原生、路由/表单/依赖注入全家桶开箱即用，MIT。
+  - 语言: TypeScript | 星标: 101,360 (今日+135)
 
 ## Games (3)
 
@@ -268,7 +280,7 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (7)
+## System Tools (10)
 
 - **[lz4/lz4](https://github.com/lz4/lz4)** - 极快的无损压缩算法 —— 2014 年至今的数据基础设施压舱石，老经典重回 Trending；issues 仅 6 个、当日仍在推送。
   - 语言: C | 星标: 12,383 (今日+23)
@@ -285,6 +297,14 @@
   - 语言: C# | 星标: 20,222 (今日+139)
 - **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** - Google TV 极速无广告启动器 —— 用 Claude Code 协助开发的开源 TV Launcher，一键回退默认。
   - 语言: Java | 星标: 1,828 (今日+1,200+)
+- **[prometheus/prometheus](https://github.com/prometheus/prometheus)** - 云原生监控事实标准 —— 指标采集/告警/时序数据库三位一体，CNCF 毕业项目，Apache-2.0。
+  - 语言: Go | 星标: 67,180 (今日+148)
+- **[etcd-io/etcd](https://github.com/etcd-io/etcd)** - 分布式 KV 存储 —— Raft 一致性内核，Kubernetes 的元数据基石，CNCF 核心组件，Apache-2.0。
+  - 语言: Go | 星标: 52,614 (今日+128)
+- **[nushell/nushell](https://github.com/nushell/nushell)** - 把 ls/ps 输出当结构化数据处理的现代 shell —— 管道里流淌的是表格而非文本，Rust + MIT。
+  - 语言: Rust | 星标: 40,982 (今日+131)
+- **[mpv-player/mpv](https://github.com/mpv-player/mpv)** - 命令行多媒体播放器王者 —— ffmpeg 加持、Lua/JSON IPC 可定制，极简主义影音首选；⚠️ 协议自定义 GPL 系。
+  - 语言: C | 星标: 37,875 (今日+37)
 
 ## 每日精选归档
 
@@ -308,3 +328,4 @@
 - [2026-11-04.md](./daily/2026-11-04.md) - 今日精选
 - [2026-11-05.md](./daily/2026-11-05.md) - 今日精选
 - [2026-11-06.md](./daily/2026-11-06.md) - 今日精选
+- [2026-11-07.md](./daily/2026-11-07.md) - 今日精选
