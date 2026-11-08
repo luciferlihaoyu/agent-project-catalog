@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-07 (共 128 个项目)
+最后更新: 2026-11-08 (共 135 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -54,8 +54,10 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (27)
+## Agent Skills (28)
 
+- **[anthropics/skills](https://github.com/anthropics/skills)** - Anthropic 官方 Agent Skills 仓库 —— Skills 生态的事实标准本体，18.9 万星 / 2.2 万 fork，Google/Android/Cursor 等跨厂商 skills 仓库均在对齐此规范；⚠️ 协议未标注。
+  - 语言: Python | 星标: 188,789 (今日+390)
 - **[google/skills](https://github.com/google/skills)** - Google 官方 Agent Skills 仓库 —— 为 Google 产品与技术发布官方 skills，Skills 生态正式升级为跨厂商标准；Apache-2.0。
   - 语言: Python | 星标: 22,369 (今日+211)
 - **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** - ConardLi 开源 Skills 合集 —— Web 设计/RAG/图像生成（gpt-image-2）等中文社区热门 agent 技能包，MIT。⚠️ 最后推送 2026-10-25。
@@ -166,8 +168,12 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (12)
+## Developer Tools (14)
 
+- **[meta/astryx](https://github.com/meta/astryx)** - Meta 官方开源设计系统 —— 完全可定制且 agent ready，设计 token 体系直接服务 AI 生成 UI，MIT；10 个月 1.45 万星，最后推送即当日维护活跃。
+  - 语言: TypeScript | 星标: 14,526 (今日+96)
+- **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** - utility-first CSS 框架事实标准 —— 原子化 class 快速搭 UI，9 年 9.8 万星常青树，AI 生成 UI 的默认目标框架，MIT；open issues 仅 113。
+  - 语言: TypeScript | 星标: 98,471 (今日+122)
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - 为 AI agent 设计的浏览器自动化 CLI —— Rust 实现，10 个月 45.9k 星；与 lightpanda/browser 同赛道走 CLI 直调路线，fork 率 6.9%。⚠️ 489 open issues。
   - 语言: Rust | 星标: 45,883 (今日+150)
 - **[github/spec-kit](https://github.com/github/spec-kit)** - GitHub 官方 SDD（Spec-Driven Development）工具包 —— 先写规格、由规格驱动 AI 实现，把生成代码放进有约束的工程流程；14.7 万星仍日增 800+，MIT。
@@ -234,8 +240,12 @@
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
 
-## Ml Infra (7)
+## Ml Infra (9)
 
+- **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** - 上下文压缩插件 —— 月级长单会话（十亿 token）/ 100K 小窗口足矣 / 省 5 倍 token，与 headroom、caveman 同赛道，中文开发者出品；⚠️ 909 open issues + 协议 NOASSERTION，成熟度存疑先观望。
+  - 语言: TypeScript | 星标: 4,609 (今日+191)
+- **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** - NVIDIA Kubernetes Engine (NVKE) —— 裸金属 GPU K8s 管理面，cluster-api 体系，Apache-2.0 配官方文档站；创建 3 个月即上 Trending，fork 率 15.9% 为当日新收录最高。
+  - 语言: Go | 星标: 558 (今日+123)
 - **[JustVugg/colibri](https://github.com/JustVugg/colibri)** - 在手头硬件上跑前沿 MoE 大模型 —— 纯 C 零依赖、专家权重从磁盘流式加载，Apache-2.0；4 个月 4.7 万星，「小机器跑大模型」的极简主义路线。
   - 语言: C | 星标: 46,541 (今日+675)
 - **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** - 把数据中心级模型 serving 搬到桌面 —— 大参数 MoE（deepseek-v4/glm/minimax/qwen）本地跑，3 个半月 1.5 万星，Apache-2.0；⚠️ 470 open issues，硬件适配长尾是持久战。
@@ -275,13 +285,17 @@
 - **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** - 系统提示词/角色锁/工作区策略的策展式收藏 —— 31 份完整可粘贴提示词覆盖 25+ 模型（Big Pickle VANTA、Space Bunny、MiMo、GLM-5.3、Claude Opus/Sonnet、Gemini、Grok…），覆盖 system prompt / AGENTS.md / Ollama Modelfile；自述为 prompt injection 研究样本，⚠️ 协议未标注。
   - 语言: Markdown | 星标: 5,538 (今日+902 · fork 率 14.8%)
 
-## Security Tools (1)
+## Security Tools (2)
 
+- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** - OSINT 经典工具 —— 按用户名跨数百个社交网络排查账号，Python CLI，MIT；7 年 10 万星老树再爆、今日 +1,766 全场增速第一，仅限合法授权场景。
+  - 语言: Python | 星标: 100,470 (今日+1,766)
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (10)
+## System Tools (11)
 
+- **[mbillow/localthings](https://github.com/mbillow/localthings)** - 三星家电 Home Assistant 本地集成 —— 局域网直控（CoAP/DTLS）无云账户断网可用，HA HACS 自定义组件，MIT；4 个月破千星，⚠️ 三星固件升级可能不兼容。
+  - 语言: Python | 星标: 1,059 (今日+186)
 - **[lz4/lz4](https://github.com/lz4/lz4)** - 极快的无损压缩算法 —— 2014 年至今的数据基础设施压舱石，老经典重回 Trending；issues 仅 6 个、当日仍在推送。
   - 语言: C | 星标: 12,383 (今日+23)
 - **[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** - 光盘盘面可见图像生成与刻录工具 —— 把图片转成符合 CD/DVD/蓝光物理层约束的数据，刻完盘面呈现肉眼可见图案；三平台 .NET 10，GPL-3.0，今日 +1,778 全场第二。
@@ -329,3 +343,4 @@
 - [2026-11-05.md](./daily/2026-11-05.md) - 今日精选
 - [2026-11-06.md](./daily/2026-11-06.md) - 今日精选
 - [2026-11-07.md](./daily/2026-11-07.md) - 今日精选
+- [2026-11-08.md](./daily/2026-11-08.md) - 今日精选
