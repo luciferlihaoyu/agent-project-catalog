@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-08 (共 135 个项目)
+最后更新: 2026-11-09 (共 137 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -152,6 +152,8 @@
   - 语言: TypeScript | 星标: 1,734 (今日+51)
 - **[Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** - 基于 Playwright + AI 的闲鱼多任务实时/定时监控与智能分析系统 —— 带后台管理 UI，「AI agent + 浏览器自动化」中文场景样本，MIT；fork 率 17.4% 自改自用玩家多，⚠️ 近月无更新、平台合规风险自担。
   - 语言: Python | 星标: 16,364 (今日+228)
+- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** - Anthropic 官方 Claude API quickstart 合集 —— 帮开发者快速上手构建可部署的 Claude 应用，MIT；fork 率 16.9% 偏高，构建者真的在拿来用而非收藏吃灰。
+  - 语言: Python | 星标: 19,416 (今日+32)
 
 ## Ai Auditing (1)
 
@@ -209,12 +211,14 @@
 - **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** - Mac 原生游戏合集 —— C 语言实现的可在 macOS 上直接运行的小游戏集合。
   - 语言: C | 星标: 2,846 (今日+1,800+)
 
-## Hardware & Robotics (2)
+## Hardware & Robotics (3)
 
 - **[pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)** - 开源双足小鸭子机器人 🦆 —— Reachy 制造商 pollen robotics 出品，Rust 固件 + 开源硬件，桌面玩具级开源机器人。
   - 语言: Rust | 星标: 10,625 (今日+421)
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** - 用 WiFi 的 CSI 做空间感知 —— ESP32 抓信道状态信息，**零摄像头**穿墙测存在/人数/呼吸/心率/跌倒/睡眠分期，无摄像头 17 关键点姿态，HA 21 实体 + Matter 打通四大智能家居，自带 MCP 与 claim-check 诚实性校验，MIT。
   - 语言: Rust | 星标: 101,055 (今日+557)
+- **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** - DeepMind 出品的多关节动力学通用物理仿真器 —— 机器人 RL 研究事实标准之一，具身智能浪潮核心仿真底座；Apache-2.0，最后推送即当日、维护极健康。
+  - 语言: C++ | 星标: 16,418 (今日+41)
 
 ## Learning (10)
 
@@ -344,3 +348,4 @@
 - [2026-11-06.md](./daily/2026-11-06.md) - 今日精选
 - [2026-11-07.md](./daily/2026-11-07.md) - 今日精选
 - [2026-11-08.md](./daily/2026-11-08.md) - 今日精选
+- [2026-11-09.md](./daily/2026-11-09.md) - 今日精选
