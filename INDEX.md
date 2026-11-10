@@ -1,11 +1,11 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-09 (共 137 个项目)
+最后更新: 2026-11-10 (共 140 个项目)
 
 
 ## AI Speech & Local Tools (4)
 
--5**[anomalyco/hex](https://github.com/anomalyco/hex)** - 本地语音听写（mac/windows/linux）—— 系统级全局听写、local-first 语音数据不出机，Rust；3 个半月 3.2 千星、今日 +1,179 全场增速第二，MIT。
+- **[anomalyco/hex](https://github.com/anomalyco/hex)** - 本地语音听写（mac/windows/linux）—— 系统级全局听写、local-first 语音数据不出机，Rust；3 个半月 3.2 千星、今日 +1,179 全场增速第二，MIT。
   - 语言: Rust | 星标: 3,269 (今日+1,179)
 - **[cjpais/Handy](https://github.com/cjpais/Handy)** - 完全离线的免费开源语音转文字应用 —— Rust + Tauri v2 跨平台，隐私优先听写，带 accessibility 标签，MIT。
   - 语言: Rust | 星标: 36,547 (今日+339)
@@ -54,8 +54,10 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (28)
+## Agent Skills (29)
 
+- **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - 用 Claude/ChatGPT 等 AI 助手配置和自动化 Home Assistant 的 MCP 服务器 —— 自然语言即智能家居编排，MIT；fork 率 4.9%、open issues 仅 24，设计成熟拿来即用，HACS 集成 + 官方文档站。
+  - 语言: Python | 星标: 5,970 (今日+31)
 - **[anthropics/skills](https://github.com/anthropics/skills)** - Anthropic 官方 Agent Skills 仓库 —— Skills 生态的事实标准本体，18.9 万星 / 2.2 万 fork，Google/Android/Cursor 等跨厂商 skills 仓库均在对齐此规范；⚠️ 协议未标注。
   - 语言: Python | 星标: 188,789 (今日+390)
 - **[google/skills](https://github.com/google/skills)** - Google 官方 Agent Skills 仓库 —— 为 Google 产品与技术发布官方 skills，Skills 生态正式升级为跨厂商标准；Apache-2.0。
@@ -114,8 +116,10 @@
 - **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
   - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Ai Agents (18)
+## Ai Agents (19)
 
+- **[garrytan/gbrain](https://github.com/garrytan/gbrain)** - Garry Tan（YC 总裁）出品的 OpenClaw/Hermes Agent Brain —— 给 agent 装"大脑"（记忆/人格/知识底座），MIT；7 个月 32k 星，与同作者已收录的 gstack 组成 agent 工具矩阵；⚠️ 795 open issues 属快速磨合期。
+  - 语言: TypeScript | 星标: 32,145 (今日+216)
 - **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** - 给 AI agent 的 computer use CLI —— 截屏/键鼠/无障碍 API 三合一，agent 直接操作桌面 GUI，Vercel Labs 出品，Apache-2.0；9 个月近万星、今日 +2,275 全场增速第一。
   - 语言: Rust | 星标: 9,672 (今日+2,275)
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** - 管理工作 agent 的开源应用 —— 团队级 agent 编排/任务分配/治理工作台，MIT；8 个月 11 万星、fork 率 16.6%，⚠️ 6,616 open issues 属高速膨胀期。
@@ -160,7 +164,10 @@
 - **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
   - 语言: Python | 星标: 27,409 (今日+2,109)
 
-## Data Intelligence (3)
+## Data Intelligence (4)
+
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** - LLM 驱动的多市场股票智能分析系统 —— 多源行情 + 实时新闻 + 决策看板 + 自动推送，零成本定时运行，原生支持 A 股，MIT；10 个月 68.8k 星、fork 率 81.9% 被大量实跑；⚠️ LLM 分析 ≠ 投资建议。
+  - 语言: Python | 星标: 68,846 (今日+506)
 
 - **[Thysrael/Horizon](https://github.com/Thysrael/Horizon)** - AI 个人新闻雷达 —— 自动聚合生成中英双语每日简报，自带 feishu-bot 推送 + MCP + webhook，Topics 直接带 openclaw 标签，MIT；"个人助理自动播报"赛道开源自托管样本。
   - 语言: Python | 星标: 12,488 (今日+121)
@@ -349,3 +356,4 @@
 - [2026-11-07.md](./daily/2026-11-07.md) - 今日精选
 - [2026-11-08.md](./daily/2026-11-08.md) - 今日精选
 - [2026-11-09.md](./daily/2026-11-09.md) - 今日精选
+- [2026-11-10.md](./daily/2026-11-10.md) - 今日精选
