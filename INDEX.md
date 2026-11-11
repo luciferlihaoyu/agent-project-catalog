@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-10 (共 140 个项目)
+最后更新: 2026-11-11 (共 142 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -22,7 +22,7 @@
 - **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
   - 语言: Python | 星标: 11,786 (今日+101)
 
-## Backend Platform (7)
+## Backend Platform (9)
 
 - **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
   - 语言: Python | 星标: 103,747 (今日+101)
@@ -32,8 +32,12 @@
   - 语言: PHP | 星标: 31,429 (今日+128)
 - **[supabase/supabase](https://github.com/supabase/supabase)** - The Postgres development platform —— 开源 Postgres 应用后端底座：数据库 + Auth + Realtime + Storage + Edge Functions + pgvector 一站式，Apache-2.0 可完全私有化。
   - 语言: TypeScript | 星标: 113,001 (今日+504)
+- **[tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)** - Tokio 团队出品的 Rust 全栈 Web 框架 —— "batteries-included" 全家桶开箱即用，把 Rails 式开发体验带进 Rust；7 个月 6.8k 星、今日 +192 全场增速最高档，MIT。
+  - 语言: Rust | 星标: 6,811 (今日+192)
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - The open alternative to Salesforce, designed for AI —— 开源 CRM：PostgreSQL + NestJS + React + GraphQL，销售线索/客户/商机全栈开源，AGPLv3 主体。
   - 语言: TypeScript | 星标: 59,165 (今日+112)
+- **[we-promise/sure](https://github.com/we-promise/sure)** - 开源自托管个人理财应用（Rails）—— "The personal finance app for everyone"，记账/预算/资产追踪一站式，数据不出家门；16 个月 11.9k 星，AGPL-3.0。
+  - 语言: Ruby | 星标: 11,946 (今日+159)
 - **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - 开源自托管 PaaS（Vercel/Heroku/Netlify 替代）—— 一条 SSH 把 VPS/裸金属/树莓派变成 PaaS，Git 一键构建 + 托管数据库 + 360+ 一键服务，配置留在自己服务器、卸载后服务照常跑，Apache-2.0。
   - 语言: PHP | 星标: 64,380 (今日+152)
 - **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
@@ -357,3 +361,4 @@
 - [2026-11-08.md](./daily/2026-11-08.md) - 今日精选
 - [2026-11-09.md](./daily/2026-11-09.md) - 今日精选
 - [2026-11-10.md](./daily/2026-11-10.md) - 今日精选
+- [2026-11-11.md](./daily/2026-11-11.md) - 今日精选
