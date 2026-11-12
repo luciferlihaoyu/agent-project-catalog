@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-11 (共 142 个项目)
+最后更新: 2026-11-12 (共 146 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -181,7 +181,7 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (14)
+## Developer Tools (16)
 
 - **[meta/astryx](https://github.com/meta/astryx)** - Meta 官方开源设计系统 —— 完全可定制且 agent ready，设计 token 体系直接服务 AI 生成 UI，MIT；10 个月 1.45 万星，最后推送即当日维护活跃。
   - 语言: TypeScript | 星标: 14,526 (今日+96)
@@ -213,6 +213,11 @@
 - **[angular/angular](https://github.com/angular/angular)** - Google 出品的企业级 Web 框架 —— TypeScript 原生、路由/表单/依赖注入全家桶开箱即用，MIT。
   - 语言: TypeScript | 星标: 101,360 (今日+135)
 
+- **[shadcn/improve](https://github.com/shadcn/improve)** - 用最贵的模型审计代码库、写改造计划，再用便宜模型照单执行 —— 把「判断力」与「执行力」按模型档位拆开的成本工程，MIT；6 个月 1.09 万星、仅 18 open issues，⚠️ 2026-09-12 后未再推送。
+  - 语言: 未标注 | 星标: 10,879 (今日+361)
+- **[GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** - Chrome 团队「现代 Web 开发指引」源仓库 —— 官方维护的现代写法事实来源，适合当 agent 规范输入/RAG 语料治 AI 写前端的「过时病」；Apache-2.0，⚠️ 无描述无 topics。
+  - 语言: TypeScript | 星标: 1,749 (今日+159)
+
 ## Games (3)
 
 - **[Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)** - Plain Craft Launcher —— 中文 Minecraft 启动器：一键导入整合包、自动装模组/光影/版本、自动匹配 Java，自定义《PCL 分发有限许可》。
@@ -231,7 +236,7 @@
 - **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** - DeepMind 出品的多关节动力学通用物理仿真器 —— 机器人 RL 研究事实标准之一，具身智能浪潮核心仿真底座；Apache-2.0，最后推送即当日、维护极健康。
   - 语言: C++ | 星标: 16,418 (今日+41)
 
-## Learning (10)
+## Learning (11)
 
 - **[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)** - 90 天 DevOps 公开学习计划 —— 三年沉淀成结构化学习地图（K8s/Terraform/Ansible/网络/备份），配套网站；⚠️ 2026-06 后停更、协议自定义，路线图向仍有效。
   - 语言: Shell | 星标: 30,420 (今日+97)
@@ -254,6 +259,9 @@
   - 语言: Python | 星标: 45,895 (今日+1,598)
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 《自学是门手艺》开源全文 —— 李笑来 2019 年写的编程自学方法论，Jupyter Notebook 每章可执行：为什么以编程为入口 / 笨拙与耐心 / 刻意练习 / 写函数；**fork 率 96.7%**，⚠️ 协议未标注。
   - 语言: Jupyter Notebook | 星标: 18,501 (今日+148)
+
+- **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** - 十年不死算法教科书 —— 经典算法与数据结构全部 Java 实现，单文件单算法、结构规整，今天是代码模型微调/评测的高质量语料；2016 年至今 6.7 万星、fork 率 32.1%、仅 29 open issues，MIT。
+  - 语言: Java | 星标: 67,018 (今日+51)
 
 ## Ml Infra (9)
 
@@ -287,7 +295,7 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (5)
+## Security Ai (6)
 
 - **[p-e-w/heretic](https://github.com/p-e-w/heretic)** - 免训练的 LLM 行为修改工具 —— 移除审查/抑制 slop/减少谄媚，一键 abliteration，AGPL-3.0；⚠️ 仅限自有/开源权重模型研究场景。
   - 语言: Python | 星标: 38,102 (今日+420)
@@ -299,6 +307,9 @@
   - 语言: Python | 星标: 22,187 (今日+214)
 - **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** - 系统提示词/角色锁/工作区策略的策展式收藏 —— 31 份完整可粘贴提示词覆盖 25+ 模型（Big Pickle VANTA、Space Bunny、MiMo、GLM-5.3、Claude Opus/Sonnet、Gemini、Grok…），覆盖 system prompt / AGENTS.md / Ollama Modelfile；自述为 prompt injection 研究样本，⚠️ 协议未标注。
   - 语言: Markdown | 星标: 5,538 (今日+902 · fork 率 14.8%)
+
+- **[openai/codex-security](https://github.com/openai/codex-security)** - OpenAI 官方安全 CLI + TypeScript SDK —— 不止扫漏洞，还强调 validate（证明可利用）+ fix（直接给补丁）压误报，一行接进 CI 或用 SDK 批量扫，Apache-2.0；4 个月 1.17 万星、稳态霸榜。
+  - 语言: TypeScript | 星标: 11,729 (今日+52)
 
 ## Security Tools (2)
 
@@ -362,3 +373,4 @@
 - [2026-11-09.md](./daily/2026-11-09.md) - 今日精选
 - [2026-11-10.md](./daily/2026-11-10.md) - 今日精选
 - [2026-11-11.md](./daily/2026-11-11.md) - 今日精选
+- [2026-11-12.md](./daily/2026-11-12.md) - 今日精选
