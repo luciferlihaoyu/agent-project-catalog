@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-12 (共 146 个项目)
+最后更新: 2026-11-13 (共 150 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -120,7 +120,7 @@
 - **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
   - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Ai Agents (19)
+## Ai Agents (20)
 
 - **[garrytan/gbrain](https://github.com/garrytan/gbrain)** - Garry Tan（YC 总裁）出品的 OpenClaw/Hermes Agent Brain —— 给 agent 装"大脑"（记忆/人格/知识底座），MIT；7 个月 32k 星，与同作者已收录的 gstack 组成 agent 工具矩阵；⚠️ 795 open issues 属快速磨合期。
   - 语言: TypeScript | 星标: 32,145 (今日+216)
@@ -162,6 +162,8 @@
   - 语言: Python | 星标: 16,364 (今日+228)
 - **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** - Anthropic 官方 Claude API quickstart 合集 —— 帮开发者快速上手构建可部署的 Claude 应用，MIT；fork 率 16.9% 偏高，构建者真的在拿来用而非收藏吃灰。
   - 语言: Python | 星标: 19,416 (今日+32)
+- **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - 通义千问官方终端 AI 编码 Agent —— 与 Claude Code / OpenCode / Gemini CLI 同生态位，四家可横向对照；真卖点是 Qwen 系模型单价带来的**成本结构**，长跑自动化任务账单压力小，Apache-2.0；⚠️ 2,220 open issues 属高频迭代噪声，文档站挂 github.io。
+  - 语言: TypeScript | 星标: 29,810 (今日+151)
 
 ## Ai Auditing (1)
 
@@ -263,7 +265,7 @@
 - **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** - 十年不死算法教科书 —— 经典算法与数据结构全部 Java 实现，单文件单算法、结构规整，今天是代码模型微调/评测的高质量语料；2016 年至今 6.7 万星、fork 率 32.1%、仅 29 open issues，MIT。
   - 语言: Java | 星标: 67,018 (今日+51)
 
-## Ml Infra (9)
+## Ml Infra (11)
 
 - **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** - 上下文压缩插件 —— 月级长单会话（十亿 token）/ 100K 小窗口足矣 / 省 5 倍 token，与 headroom、caveman 同赛道，中文开发者出品；⚠️ 909 open issues + 协议 NOASSERTION，成熟度存疑先观望。
   - 语言: TypeScript | 星标: 4,609 (今日+191)
@@ -283,6 +285,10 @@
   - 语言: Python | 星标: 94,436 (今日+128)
 - **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** - DeepSeek 官方高性能大规模推理框架 —— DeepSeek 模型专属优化，承接 DeepSeek-V3/R1 等 MoE 模型的工业级 serving。
   - 语言: Python | 星标: 12,556 (今日+2,400+)
+- **[ashhart/TensorFold](https://github.com/ashhart/TensorFold)** - 用 Zig 写的跨后端 LLM 推理引擎 —— 一套内核同时吃 Metal / CUDA / Vulkan，直指 llama.cpp 的后端格局；5 个月 1.9k 星、fork 率 20.2% 全批最高（真编译真跑的人多），Apache-2.0；⚠️ 522 open issues vs 1.9k 星，当实验台别当生产替代。
+  - 语言: Zig | 星标: 1,938 (今日+54)
+- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** - 本地 LLM 推理的绝对基线 —— GGUF 量化 + ggml 后端已成事实标准，硬件覆盖 x86/ARM/Metal/Vulkan/CUDA 全谱，所有推理新秀的公共分母；三年半日更，13 万星仍在榜，MIT。
+  - 语言: C++ | 星标: 134,556 (今日+176)
 
 ## Programming Languages (4)
 
@@ -318,7 +324,7 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (11)
+## System Tools (12)
 
 - **[mbillow/localthings](https://github.com/mbillow/localthings)** - 三星家电 Home Assistant 本地集成 —— 局域网直控（CoAP/DTLS）无云账户断网可用，HA HACS 自定义组件，MIT；4 个月破千星，⚠️ 三星固件升级可能不兼容。
   - 语言: Python | 星标: 1,059 (今日+186)
@@ -345,6 +351,8 @@
   - 语言: Rust | 星标: 40,982 (今日+131)
 - **[mpv-player/mpv](https://github.com/mpv-player/mpv)** - 命令行多媒体播放器王者 —— ffmpeg 加持、Lua/JSON IPC 可定制，极简主义影音首选；⚠️ 协议自定义 GPL 系。
   - 语言: C | 星标: 37,875 (今日+37)
+- **[pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)** - 让任意 Apple Watch 用上爱马仕联名表盘 —— 典型「解锁生态」单点工具，两年老仓今天 +218 上榜，MIT；⚠️ watchOS 大版本升级易打断兼容性，仅限个人使用、勿商业分发。
+  - 语言: Objective-C | 星标: 1,538 (今日+218)
 
 ## 每日精选归档
 
@@ -374,3 +382,4 @@
 - [2026-11-10.md](./daily/2026-11-10.md) - 今日精选
 - [2026-11-11.md](./daily/2026-11-11.md) - 今日精选
 - [2026-11-12.md](./daily/2026-11-12.md) - 今日精选
+- [2026-11-13.md](./daily/2026-11-13.md) - 今日精选
