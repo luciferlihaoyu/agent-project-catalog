@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-13 (共 150 个项目)
+最后更新: 2026-11-14 (共 157 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -58,8 +58,10 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (29)
+## Agent Skills (30)
 
+- **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** - 面向股票投资者与交易员的 Claude Code skills —— 市场分析/技术图表/经济日历/选股筛选/策略开发，agent skills「行业化」代表作；fork 率 20.7% 今日最高，真拿去改策略的人多；⚠️ LLM 分析 ≠ 投资建议。
+  - 语言: Python | 星标: 4,169 (今日+69)
 - **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - 用 Claude/ChatGPT 等 AI 助手配置和自动化 Home Assistant 的 MCP 服务器 —— 自然语言即智能家居编排，MIT；fork 率 4.9%、open issues 仅 24，设计成熟拿来即用，HACS 集成 + 官方文档站。
   - 语言: Python | 星标: 5,970 (今日+31)
 - **[anthropics/skills](https://github.com/anthropics/skills)** - Anthropic 官方 Agent Skills 仓库 —— Skills 生态的事实标准本体，18.9 万星 / 2.2 万 fork，Google/Android/Cursor 等跨厂商 skills 仓库均在对齐此规范；⚠️ 协议未标注。
@@ -120,8 +122,17 @@
 - **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
   - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Ai Agents (20)
+## Agent Workflow (5)
 
+- **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** - Agent 工作流的「批注决策台」—— 不执行、不代替 agent，横在"agent 提方案"与"agent 动手"之间：shape/decide/plan/annotate/review 一键回传反馈；跨 claude-code/codex/opencode/pi-mono，一年破万星，Apache-2.0。
+  - 语言: TypeScript | 星标: 10,451 (今日+108)
+- **[Apollo-11](https://github.com/chrislgarry/Apollo-11)** - 阿波罗11号引导计算机（AGC）的原始源代码，登月计划的蓝图。
+  - 语言: Assembly | 星标: 74,257
+
+## Ai Agents (21)
+
+- **[block/buzz](https://github.com/block/buzz)** - Block（Square/Cash App 母公司）出品的「蜂群思维」通信平台 —— 多 agent/多人共享同一上下文的群聊式协作基础设施，Rust + Apache-2.0，8 个月 3.7 万星；fork 率 13.2% 大量团队自建；⚠️ 3,838 open issues 快速膨胀期。
+  - 语言: Rust | 星标: 37,298 (今日+97)
 - **[garrytan/gbrain](https://github.com/garrytan/gbrain)** - Garry Tan（YC 总裁）出品的 OpenClaw/Hermes Agent Brain —— 给 agent 装"大脑"（记忆/人格/知识底座），MIT；7 个月 32k 星，与同作者已收录的 gstack 组成 agent 工具矩阵；⚠️ 795 open issues 属快速磨合期。
   - 语言: TypeScript | 星标: 32,145 (今日+216)
 - **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** - 给 AI agent 的 computer use CLI —— 截屏/键鼠/无障碍 API 三合一，agent 直接操作桌面 GUI，Vercel Labs 出品，Apache-2.0；9 个月近万星、今日 +2,275 全场增速第一。
@@ -183,8 +194,10 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (16)
+## Developer Tools (17)
 
+- **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - Chrome 官方 DevTools MCP server —— 让 coding agent 直接拿性能 trace/网络检查/console/页面快照，Google 把「给 agent 用」变成 DevTools 一等公民场景；5.5 万星仅 116 issues，agent-browser 赛道事实标准，Apache-2.0。
+  - 语言: TypeScript | 星标: 55,452 (今日+67)
 - **[meta/astryx](https://github.com/meta/astryx)** - Meta 官方开源设计系统 —— 完全可定制且 agent ready，设计 token 体系直接服务 AI 生成 UI，MIT；10 个月 1.45 万星，最后推送即当日维护活跃。
   - 语言: TypeScript | 星标: 14,526 (今日+96)
 - **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** - utility-first CSS 框架事实标准 —— 原子化 class 快速搭 UI，9 年 9.8 万星常青树，AI 生成 UI 的默认目标框架，MIT；open issues 仅 113。
@@ -324,8 +337,14 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (12)
+## System Tools (15)
 
+- **[tailscale/tailcat](https://github.com/tailscale/tailcat)** - Tailscale 官方、剥掉控制面的 netcat —— 传输层换成 WireGuard 数据面报文，无账号无协调服务器直连换流；今日 +256 全场增速第一，9.4 千星仅 42 issues 健康度最佳，BSD-3-Clause；⚠️ 最后推送 2026-11-05。
+  - 语言: Go | 星标: 9,457 (今日+256)
+- **[Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)** - Windows 视频/采集卡增强工具 —— 实时预览 + AI 超分 + DLSS 5 增强 + 帧生成，「让 PS5 GTA6 跑上 120FPS」；两个月新仓今日 +256，玩家痛点精准；⚠️ GPL-3.0、成熟度待观察。
+  - 语言: C++ | 星标: 1,616 (今日+256)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - 花哨好用的自托管监控工具 —— Uptime 拨测/状态页一站式，5 年 9.3 万星自托管监控事实标准，与 Prometheus 分工平行（轻量拨测 vs 云原生指标），MIT。
+  - 语言: JavaScript | 星标: 93,860 (今日+71)
 - **[mbillow/localthings](https://github.com/mbillow/localthings)** - 三星家电 Home Assistant 本地集成 —— 局域网直控（CoAP/DTLS）无云账户断网可用，HA HACS 自定义组件，MIT；4 个月破千星，⚠️ 三星固件升级可能不兼容。
   - 语言: Python | 星标: 1,059 (今日+186)
 - **[lz4/lz4](https://github.com/lz4/lz4)** - 极快的无损压缩算法 —— 2014 年至今的数据基础设施压舱石，老经典重回 Trending；issues 仅 6 个、当日仍在推送。
@@ -383,3 +402,4 @@
 - [2026-11-11.md](./daily/2026-11-11.md) - 今日精选
 - [2026-11-12.md](./daily/2026-11-12.md) - 今日精选
 - [2026-11-13.md](./daily/2026-11-13.md) - 今日精选
+- [2026-11-14.md](./daily/2026-11-14.md) - 今日精选
