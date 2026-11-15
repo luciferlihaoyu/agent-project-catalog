@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-14 (共 157 个项目)
+最后更新: 2026-11-15 (共 161 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -122,14 +122,21 @@
 - **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
   - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Agent Workflow (5)
+## Agent Workflow (6)
 
+- **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** - 腾讯出品的 coding-agent 交付编排器 —— 自托管工作流把 CodeBuddy/Codex/Claude Code 产出装进「脚本+人工审批门」，agent 写完过审批门才算交付；3 个半月上 Trending、fork 率 23.2% 今日新收录最高；⚠️ 协议 NOASSERTION 商用前确认。
+  - 语言: Go | 星标: 909 (今日+33)
 - **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** - Agent 工作流的「批注决策台」—— 不执行、不代替 agent，横在"agent 提方案"与"agent 动手"之间：shape/decide/plan/annotate/review 一键回传反馈；跨 claude-code/codex/opencode/pi-mono，一年破万星，Apache-2.0。
   - 语言: TypeScript | 星标: 10,451 (今日+108)
 - **[Apollo-11](https://github.com/chrislgarry/Apollo-11)** - 阿波罗11号引导计算机（AGC）的原始源代码，登月计划的蓝图。
   - 语言: Assembly | 星标: 74,257
 
 ## Ai Agents (21)
+
+- **[dream-num/univer](https://github.com/dream-num/univer)** - 开源 AI Office SDK —— Excel/Doc/PDF 的编辑/计算/协作做成可嵌入组件，口号直指 "for people and AI agents"，给 agent 提供结构化办公操作面；今日 +495 增速第一梯队，Apache-2.0，165 issues 极干净。
+  - 语言: TypeScript | 星标: 24,497 (今日+495)
+- **[ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** - AG-UI: the Agent-User Interaction Protocol —— agent 事件流与前端状态双向通信的协议层，「agent 走向前端」的事实标准候选；已收录的 CopilotKit/OpenBot 明确依赖它；MIT；593 issues 属规范类常态。
+  - 语言: TypeScript | 星标: 17,369 (今日+9)
 
 - **[block/buzz](https://github.com/block/buzz)** - Block（Square/Cash App 母公司）出品的「蜂群思维」通信平台 —— 多 agent/多人共享同一上下文的群聊式协作基础设施，Rust + Apache-2.0，8 个月 3.7 万星；fork 率 13.2% 大量团队自建；⚠️ 3,838 open issues 快速膨胀期。
   - 语言: Rust | 星标: 37,298 (今日+97)
@@ -330,8 +337,10 @@
 - **[openai/codex-security](https://github.com/openai/codex-security)** - OpenAI 官方安全 CLI + TypeScript SDK —— 不止扫漏洞，还强调 validate（证明可利用）+ fix（直接给补丁）压误报，一行接进 CI 或用 SDK 批量扫，Apache-2.0；4 个月 1.17 万星、稳态霸榜。
   - 语言: TypeScript | 星标: 11,729 (今日+52)
 
-## Security Tools (2)
+## Security Tools (3)
 
+- **[martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)** - Rust 写的 WiFi 安全审计软件 —— GUI 化无线安全测试，面向 Kali/Linux，今日 +270 继 sherlock/ghidra 后安全工具再回榜；16 issues 极健康，crates.io 直装；⚠️ 仅限授权测试场景。
+  - 语言: Rust | 星标: 5,864 (今日+270)
 - **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** - OSINT 经典工具 —— 按用户名跨数百个社交网络排查账号，Python CLI，MIT；7 年 10 万星老树再爆、今日 +1,766 全场增速第一，仅限合法授权场景。
   - 语言: Python | 星标: 100,470 (今日+1,766)
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
@@ -403,3 +412,4 @@
 - [2026-11-12.md](./daily/2026-11-12.md) - 今日精选
 - [2026-11-13.md](./daily/2026-11-13.md) - 今日精选
 - [2026-11-14.md](./daily/2026-11-14.md) - 今日精选
+- [2026-11-15.md](./daily/2026-11-15.md) - 今日精选
