@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-15 (共 161 个项目)
+最后更新: 2026-11-16 (共 165 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -58,8 +58,12 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (30)
+## Agent Skills (32)
 
+- **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** - Agent Skill 评测框架（NVIDIA 官方）—— 多层质量闸门 + 语义重叠检测 + 合成评测数据集生成 + **实测 skill 装上后 agent 行为变化**；与同厂 SkillSpector 组成「扫安全 + 评质量」双闸，Apache-2.0。
+  - 语言: Python | 星标: 1,680 (今日+122)
+- **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** - Google Stitch MCP server 配套 Agent Skills 库 —— 遵循 Agent Skills 开放标准，兼容 Antigravity/Gemini CLI/Claude Code/Cursor，Google skills 三件套之一；Apache-2.0，⚠️ 最后推送 2026-08-17 停滞三个月。
+  - 语言: TypeScript | 星标: 9,295 (今日+247)
 - **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** - 面向股票投资者与交易员的 Claude Code skills —— 市场分析/技术图表/经济日历/选股筛选/策略开发，agent skills「行业化」代表作；fork 率 20.7% 今日最高，真拿去改策略的人多；⚠️ LLM 分析 ≠ 投资建议。
   - 语言: Python | 星标: 4,169 (今日+69)
 - **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** - 用 Claude/ChatGPT 等 AI 助手配置和自动化 Home Assistant 的 MCP 服务器 —— 自然语言即智能家居编排，MIT；fork 率 4.9%、open issues 仅 24，设计成熟拿来即用，HACS 集成 + 官方文档站。
@@ -285,8 +289,10 @@
 - **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** - 十年不死算法教科书 —— 经典算法与数据结构全部 Java 实现，单文件单算法、结构规整，今天是代码模型微调/评测的高质量语料；2016 年至今 6.7 万星、fork 率 32.1%、仅 29 open issues，MIT。
   - 语言: Java | 星标: 67,018 (今日+51)
 
-## Ml Infra (11)
+## Ml Infra (12)
 
+- **[ggml-org/ggml](https://github.com/ggml-org/ggml)** - 机器学习张量库 —— llama.cpp 的底座（gguf 量化 + 多硬件后端），本体单独上榜说明有人开始绕过 llama.cpp 直接在 ggml 上搭推理栈（TensorFold/colibri 走的就是这条路）；MIT，四年日更。
+  - 语言: C++ | 星标: 15,907 (今日+43)
 - **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** - 上下文压缩插件 —— 月级长单会话（十亿 token）/ 100K 小窗口足矣 / 省 5 倍 token，与 headroom、caveman 同赛道，中文开发者出品；⚠️ 909 open issues + 协议 NOASSERTION，成熟度存疑先观望。
   - 语言: TypeScript | 星标: 4,609 (今日+191)
 - **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** - NVIDIA Kubernetes Engine (NVKE) —— 裸金属 GPU K8s 管理面，cluster-api 体系，Apache-2.0 配官方文档站；创建 3 个月即上 Trending，fork 率 15.9% 为当日新收录最高。
@@ -321,8 +327,10 @@
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** - Empowering everyone to build reliable and efficient software....
   - 语言: Rust | 星标: 120,031 (今日+207)
 
-## Security Ai (6)
+## Security Ai (7)
 
+- **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** - Claude Code 的 bug hunting / 外部红队 skill 包 —— 82 skills + 15 slash commands + **681 份已披露报告**的模式提炼，覆盖 24 类核心漏洞，另附企业身份与基础设施攻击矩阵；fork 率 15.0%、仅 6 issues，与 Claude-Red 正面竞争；⚠️ 仅限合法授权测试。
+  - 语言: Python | 星标: 6,441 (今日+98)
 - **[p-e-w/heretic](https://github.com/p-e-w/heretic)** - 免训练的 LLM 行为修改工具 —— 移除审查/抑制 slop/减少谄媚，一键 abliteration，AGPL-3.0；⚠️ 仅限自有/开源权重模型研究场景。
   - 语言: Python | 星标: 38,102 (今日+420)
 - **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** - 开源 AI 安全运营中心（SOC）—— 告警融合 + LLM-agent 分诊 + MITRE ATT&CK 调查 + 可回放决策台账，自托管零 API key、LangGraph 驱动、自带 MCP server，MIT。
@@ -413,3 +421,4 @@
 - [2026-11-13.md](./daily/2026-11-13.md) - 今日精选
 - [2026-11-14.md](./daily/2026-11-14.md) - 今日精选
 - [2026-11-15.md](./daily/2026-11-15.md) - 今日精选
+- [2026-11-16.md](./daily/2026-11-16.md) - 今日精选
