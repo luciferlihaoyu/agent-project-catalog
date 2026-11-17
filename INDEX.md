@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-16 (共 165 个项目)
+最后更新: 2026-11-17 (共 171 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -13,7 +13,10 @@
   - 语言: Python | 星标: 40,257 (今日+150)
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 开源本地化 ElevenLabs 替代品 —— 语音克隆/设计/视频配音/听写/有声书，支持 646 种语言，AGPL-3.0。
   - 语言: Python | 星标: 83,354（2026-10-14 收录）
-## Ai Science & Resources (3)
+## Ai Science & Resources (4)
+
+- **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** - Google Research 的多 agent 论文写作框架 —— 调研→大纲→写作→图表→修订流水线式分工，端到端产出论文草稿，Apache-2.0；fork 率 15.7% 今日新收录最高（真在改的人多）。⚠️ 学术诚信自己把握：能起草 ≠ 能署名。
+  - 语言: Python | 星标: 1,517 (今日+313)
 
 - **[karpathy/nanochat](https://github.com/karpathy/nanochat)** - 100 美元能买到的最好 ChatGPT —— Karpathy 全栈自训 LLM 教材级实现（预训→微调→评估→部署），MIT；一年 6 万星，⚠️ 已进入维护期。
   - 语言: Python | 星标: 59,890 (今日+321)
@@ -43,7 +46,10 @@
 - **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
   - 语言: Rust | 星标: 5,418 (今日+117)
 
-## Content Creation (6)
+## Content Creation (7)
+
+- **[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** - 给 coding agent 的本地视频剪辑器 —— 42 个 FFmpeg 能力包成**机器可读契约** + MCP server，剪接/字幕/重构图/响度标准化/平台导出全本地执行，无云、无 API Key；接 Claude Code / Cursor / Codex；两个月 6.7K 星、今日 +367 全场增速第一，MIT。
+  - 语言: Python | 星标: 6,724 (今日+367)
 
 - **[storytold/artcraft](https://github.com/storytold/artcraft)** - 艺术家的 IDE —— 在 2D 里构图、在 3D 里布景，先搭好画面再让 AI 生成，把 prompt 变成可控的 crafting，Rust 桌面应用。
   - 语言: Rust | 星标: 7,937 (2026-10-08 收录)
@@ -58,7 +64,10 @@
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
 
-## Agent Skills (32)
+## Agent Skills (33)
+
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - 跨六源「近 30 天」主题调研 agent skill —— Reddit / X / YouTube / HN / Polymarket / web 并行抓取再综合出**带出处**的综述，专治 LLM 知识截止；接入 Polymarket 是它不同于普通 deep-research 的杀手锏，MIT，一年 6.8 万星仅 31 个 open issues。
+  - 语言: Python | 星标: 68,125 (今日+135)
 
 - **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** - Agent Skill 评测框架（NVIDIA 官方）—— 多层质量闸门 + 语义重叠检测 + 合成评测数据集生成 + **实测 skill 装上后 agent 行为变化**；与同厂 SkillSpector 组成「扫安全 + 评质量」双闸，Apache-2.0。
   - 语言: Python | 星标: 1,680 (今日+122)
@@ -205,7 +214,10 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (17)
+## Developer Tools (18)
+
+- **[sveltejs/svelte](https://github.com/sveltejs/svelte)** - 编译期响应式框架的代表作 —— 无虚拟 DOM、状态变更编译成精确 DOM 操作，Svelte 5 Runes（$state/$derived/$effect）把隐式魔法改成显式声明；单文件组件语法对 AI 生成前端极友好，MIT；⚠️ 1,313 open issues（多为 RFC/feature 讨论），招人池远小于 React。
+  - 语言: JavaScript | 星标: 88,992 (今日+115)
 
 - **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - Chrome 官方 DevTools MCP server —— 让 coding agent 直接拿性能 trace/网络检查/console/页面快照，Google 把「给 agent 用」变成 DevTools 一等公民场景；5.5 万星仅 116 issues，agent-browser 赛道事实标准，Apache-2.0。
   - 语言: TypeScript | 星标: 55,452 (今日+67)
@@ -354,7 +366,10 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (15)
+## System Tools (16)
+
+- **[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)** - Go 写的自托管 Docker 管理面板 —— 容器/镜像/Compose stack/卷网络可视化管理、多主机 agent 接管，单二进制部署，替代 Docker Desktop 那套付费授权；8.7K 星仅 11 个 open issues、fork 率 4.6%，今日清单里工程最干净的一个。⚠️ 管理面板 = 服务器 root 钥匙，公网暴露必须 TLS + 强认证。
+  - 语言: Go | 星标: 8,728 (今日+46)
 
 - **[tailscale/tailcat](https://github.com/tailscale/tailcat)** - Tailscale 官方、剥掉控制面的 netcat —— 传输层换成 WireGuard 数据面报文，无账号无协调服务器直连换流；今日 +256 全场增速第一，9.4 千星仅 42 issues 健康度最佳，BSD-3-Clause；⚠️ 最后推送 2026-11-05。
   - 语言: Go | 星标: 9,457 (今日+256)
@@ -422,3 +437,4 @@
 - [2026-11-14.md](./daily/2026-11-14.md) - 今日精选
 - [2026-11-15.md](./daily/2026-11-15.md) - 今日精选
 - [2026-11-16.md](./daily/2026-11-16.md) - 今日精选
+- [2026-11-17.md](./daily/2026-11-17.md) - 今日精选
