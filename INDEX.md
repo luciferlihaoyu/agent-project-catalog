@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-17 (共 171 个项目)
+最后更新: 2026-11-18 (共 172 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -279,6 +279,9 @@
 - **[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)** - 90 天 DevOps 公开学习计划 —— 三年沉淀成结构化学习地图（K8s/Terraform/Ansible/网络/备份），配套网站；⚠️ 2026-06 后停更、协议自定义，路线图向仍有效。
   - 语言: Shell | 星标: 30,420 (今日+97)
 
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** - 2 小时从零训出 64M 参数 LLM 的教学级全链路实现 —— 预训练→SFT→LoRA→评测→推理一条龙，单卡消费级硬件跑完，数据/分词器/训练脚本全开源无黑盒；fork 率 13.1% 真被拿去改参数重跑，Apache-2.0，仅 64 open issues；⚠️ 最后推送 2026-10-27 偏慢，当原理教材用。
+  - 语言: Python | 星标: 65,966 (今日+192)
+
 - **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** - LLM/RAG/AI Agent 实战教程集 —— notebook 级教程跟新模型节奏走，AI 工程学习第一入口；今日 +1,191 全场增速第一，MIT。
   - 语言: Jupyter Notebook | 星标: 40,241 (今日+1,191)
 - **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - Open Multi-Agent Interactive Classroom —— 清华系开源多智能体互动课堂，一键进入沉浸式 multi-agent 学习体验，MIT；4.2 万星为本次收录最高，热度已过峰值。
@@ -438,3 +441,4 @@
 - [2026-11-15.md](./daily/2026-11-15.md) - 今日精选
 - [2026-11-16.md](./daily/2026-11-16.md) - 今日精选
 - [2026-11-17.md](./daily/2026-11-17.md) - 今日精选
+- [2026-11-18.md](./daily/2026-11-18.md) - 今日精选
