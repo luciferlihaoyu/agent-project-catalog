@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-18 (共 172 个项目)
+最后更新: 2026-11-19 (共 179 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -25,7 +25,17 @@
 - **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
   - 语言: Python | 星标: 11,786 (今日+101)
 
-## Backend Platform (9)
+## Backend Platform (12)
+
+- **[appwrite/appwrite](https://github.com/appwrite/appwrite)** - The open-source cloud for agents & devs —— Auth/Database/Storage/Functions/Messaging/Hosting/Realtime/WAF 一套自托管后端底座，Firebase 开源替代；定位已换挡为「给 agent 用的云」，多租户+文件+后台任务的 agent 后端最省决策成本选项；BSD-3-Clause 商用最省心档、fork 率 10.1%、733 issues 工程健康。
+  - 语言: TypeScript | 星标: 58,226
+
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** - fair-code 工作流自动化平台 —— 可视化编排 + 自定义代码双出口、400+ 集成，AI/agent 节点为平台原生能力（不是「加个 LLM 节点」），可自托管或上云；全场体量最大（21.1 万星）且当日仍在推送；⚠️ 协议 Sustainable Use，不能做竞品 SaaS，商用前过法务。
+  - 语言: TypeScript | 星标: 211,071
+
+- **[jquery/jquery](https://github.com/jquery/jquery)** - jQuery JavaScript 库 —— 2009 年至今的存量 Web 最大公约数，完全维护态：60k 星仅 95 open issues、两天前仍有推送；今日回榜多为怀旧/教程内容带量，非技术变化。老项目维护、嵌入式管理后台、无构建链静态页仍在用，新项目不必选。
+  - 语言: JavaScript | 星标: 60,007
+
 
 - **[fastapi/fastapi](https://github.com/fastapi/fastapi)** - 高性能 Python API 框架 —— 类型注解直接产出 OpenAPI 文档 + Pydantic 校验 + 异步原生，MIT，生产可用。
   - 语言: Python | 星标: 103,747 (今日+101)
@@ -135,7 +145,11 @@
 - **[spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** - Spotify 官方 AI 应用门户插件体系脚手架 —— portal + AI plugins 架构的官方参考实现，Apache-2.0；3 个月 3 千星但 fork 率 7.7% 偏低，⚠️ 无描述无 topics、信息饥饿，建议观察 release 节奏再跟进。
   - 语言: TypeScript | 星标: 3,039 (今日+91)
 
-## Agent Workflow (6)
+## Agent Workflow (7)
+
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** - MCP server 的目录总集 —— 事实上的 MCP 生态索引（配 Glama 在线目录检索），98k 星是入口级位置；4,768 open issues 暴露真实痛点：**没人能判断上万个 server 里哪个是活的、安全的**，这个位置的下一波机会在筛选/评分/供应链审计而非「再收录一个」；收录型仓库无代码可跑。
+  - 星标: 98,025
+
 
 - **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** - 腾讯出品的 coding-agent 交付编排器 —— 自托管工作流把 CodeBuddy/Codex/Claude Code 产出装进「脚本+人工审批门」，agent 写完过审批门才算交付；3 个半月上 Trending、fork 率 23.2% 今日新收录最高；⚠️ 协议 NOASSERTION 商用前确认。
   - 语言: Go | 星标: 909 (今日+33)
@@ -214,7 +228,11 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (18)
+## Developer Tools (19)
+
+- **[solidjs/solid](https://github.com/solidjs/solid)** - 细粒度响应式 UI 库 —— 无虚拟 DOM，状态变更编译成精确 DOM 操作，JSX 语法、性能榜常年靠前；36.5k 星仅 30 open issues 为全榜最干净之一（完全定型、维护极稳），fork 率 3.2% 拿来即用；生态与招人池远小于 React 是已知代价。
+  - 语言: TypeScript | 星标: 36,581
+
 
 - **[sveltejs/svelte](https://github.com/sveltejs/svelte)** - 编译期响应式框架的代表作 —— 无虚拟 DOM、状态变更编译成精确 DOM 操作，Svelte 5 Runes（$state/$derived/$effect）把隐式魔法改成显式声明；单文件组件语法对 AI 生成前端极友好，MIT；⚠️ 1,313 open issues（多为 RFC/feature 讨论），招人池远小于 React。
   - 语言: JavaScript | 星标: 88,992 (今日+115)
@@ -304,7 +322,14 @@
 - **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** - 十年不死算法教科书 —— 经典算法与数据结构全部 Java 实现，单文件单算法、结构规整，今天是代码模型微调/评测的高质量语料；2016 年至今 6.7 万星、fork 率 32.1%、仅 29 open issues，MIT。
   - 语言: Java | 星标: 67,018 (今日+51)
 
-## Ml Infra (12)
+## Ml Infra (14)
+
+- **[astral-sh/uv](https://github.com/astral-sh/uv)** - 极快的 Python 包与项目管理器 —— Rust 实现，把 pip/pip-tools/virtualenv/pyenv/poetry 职责收进单二进制，解析安装快一个数量级；fork 率仅 4.3% 说明没人拿去改、都在当默认工具用，3,078 open issues 是「被当生产依赖」的排队量；新项目已没必要从 pip + requirements.txt 起步。
+  - 语言: Rust | 星标: 92,217
+
+- **[openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)** - Intel 出品的 AI 推理优化与部署工具链 —— 模型转换 + 图优化 + 量化，把训练好的模型高效铺到 CPU/iGPU/NPU；今日仅 +24 仍在榜，是 Intel 硬件路线的长尾存在感，与 vLLM/llama.cpp/TensorFold 构成同战线不同格子；fork 率 31.8% 企业定制转换多，1,161 issues 多为硬件适配长尾。
+  - 语言: C++ | 星标: 11,324
+
 
 - **[ggml-org/ggml](https://github.com/ggml-org/ggml)** - 机器学习张量库 —— llama.cpp 的底座（gguf 量化 + 多硬件后端），本体单独上榜说明有人开始绕过 llama.cpp 直接在 ggml 上搭推理栈（TensorFold/colibri 走的就是这条路）；MIT，四年日更。
   - 语言: C++ | 星标: 15,907 (今日+43)
@@ -442,3 +467,4 @@
 - [2026-11-16.md](./daily/2026-11-16.md) - 今日精选
 - [2026-11-17.md](./daily/2026-11-17.md) - 今日精选
 - [2026-11-18.md](./daily/2026-11-18.md) - 今日精选
+- [2026-11-19.md](./daily/2026-11-19.md) - 今日精选
