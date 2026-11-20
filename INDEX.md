@@ -1,6 +1,6 @@
 # GitHub 项目分类索引
 
-最后更新: 2026-11-19 (共 179 个项目)
+最后更新: 2026-11-20 (共 186 个项目)
 
 
 ## AI Speech & Local Tools (4)
@@ -25,7 +25,7 @@
 - **[kornia/kornia](https://github.com/kornia/kornia)** - 面向 Spatial AI 的几何计算机视觉库 —— 经典 CV 算法 tensor 化进 PyTorch，可微分可 GPU，机器人/AR 热潮带量，Apache-2.0。
   - 语言: Python | 星标: 11,786 (今日+101)
 
-## Backend Platform (12)
+## Backend Platform (14)
 
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** - The open-source cloud for agents & devs —— Auth/Database/Storage/Functions/Messaging/Hosting/Realtime/WAF 一套自托管后端底座，Firebase 开源替代；定位已换挡为「给 agent 用的云」，多租户+文件+后台任务的 agent 后端最省决策成本选项；BSD-3-Clause 商用最省心档、fork 率 10.1%、733 issues 工程健康。
   - 语言: TypeScript | 星标: 58,226
@@ -56,7 +56,13 @@
 - **[macro-inc/macro](https://github.com/macro-inc/macro)** - 团队工作软件的「重做尝试」** —— email + messages + docs + tasks + agents + calls + CRM 统一进一个界面，所有对象 @link 成**双向图谱**、共享团队级记忆，Rust + SolidJS 写的团队「操作系统」，AGPL-3.0。
   - 语言: Rust | 星标: 5,418 (今日+117)
 
-## Content Creation (7)
+**[nginx/nginx](https://github.com/nginx/nginx)** - NGINX 官方开源仓库 —— 反向代理/负载均衡/静态服务/HTTP3 的行业地基，2015 年建仓至今；fork 率 26% 属典型发行打包型（各 Linux 发行版与容器基础镜像在 fork），今日上榜是发布节奏带量而非技术变化。
+  - 语言: C | 星标: 32,334 (今日+73)
+
+**[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - Notion + Miro 的开源合体 —— 文档/白板/数据库三形态互通，CRDT 真多人协作、离线可编辑、隐私优先可自托管 + Electron 桌面端；四年项目进入成熟期，842 issues 属大型协作软件常态；⚠️ 协议 NOASSERTION，二次商业发行前看授权。
+  - 语言: TypeScript | 星标: 75,167 (今日+182)
+
+## Content Creation (8)
 
 - **[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** - 给 coding agent 的本地视频剪辑器 —— 42 个 FFmpeg 能力包成**机器可读契约** + MCP server，剪接/字幕/重构图/响度标准化/平台导出全本地执行，无云、无 API Key；接 Claude Code / Cursor / Codex；两个月 6.7K 星、今日 +367 全场增速第一，MIT。
   - 语言: Python | 星标: 6,724 (今日+367)
@@ -73,6 +79,9 @@
   - 语言: Python | 星标: 59,446 (2026-10-11 收录)
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 开源版社交媒体排期工具 —— Next.js + Redis，多平台排期/自动化/分析；Public API + NodeJS SDK + n8n 节点 + Make 集成，Agent 可直接调，AGPL-3.0。
   - 语言: TypeScript | 星标: 38,451 (今日+188)
+
+**[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** - 一个链接，一键出片 —— 开源 AI 视频剪辑桌面工具，把播客/访谈/课程等长视频自动剪成短视频，生成字幕/封面/发布文案，一次产出适配抖音/小红书/TikTok/Reels/Shorts；MIT + 17.3% 高 fork 率（真在改着用）、带 MCP 可按 agent 调用；与 MoneyPrinterTurbo 互补（造内容 vs 榨存量）。
+  - 语言: Python | 星标: 11,219 (今日+126)
 
 ## Agent Skills (33)
 
@@ -158,7 +167,7 @@
 - **[Apollo-11](https://github.com/chrislgarry/Apollo-11)** - 阿波罗11号引导计算机（AGC）的原始源代码，登月计划的蓝图。
   - 语言: Assembly | 星标: 74,257
 
-## Ai Agents (21)
+## Ai Agents (22)
 
 - **[dream-num/univer](https://github.com/dream-num/univer)** - 开源 AI Office SDK —— Excel/Doc/PDF 的编辑/计算/协作做成可嵌入组件，口号直指 "for people and AI agents"，给 agent 提供结构化办公操作面；今日 +495 增速第一梯队，Apache-2.0，165 issues 极干净。
   - 语言: TypeScript | 星标: 24,497 (今日+495)
@@ -210,6 +219,9 @@
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - 通义千问官方终端 AI 编码 Agent —— 与 Claude Code / OpenCode / Gemini CLI 同生态位，四家可横向对照；真卖点是 Qwen 系模型单价带来的**成本结构**，长跑自动化任务账单压力小，Apache-2.0；⚠️ 2,220 open issues 属高频迭代噪声，文档站挂 github.io。
   - 语言: TypeScript | 星标: 29,810 (今日+151)
 
+**[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - agent 的互联网输入层 —— 搜索/抓取/结构化抽取 + 550+ 数据源压成一条 API，18 个月 20.4 万星今日仍 +825 全场体量第一；fork 率仅 5.2%（当服务用不当代码改）；⚠️ AGPL-3.0 做闭源 SaaS 前必须过法务。
+  - 语言: TypeScript | 星标: 204,226 (今日+825)
+
 ## Ai Auditing (1)
 
 - **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial ques...
@@ -228,7 +240,7 @@
 - **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** - Marble 出品的开源分类法，把分散的数据源、agent 输出、网页内容统一到一套可机读、可对齐的标签体系下。
   - 语言: JavaScript | 星标: 6,121 (今日+284)
 
-## Developer Tools (19)
+## Developer Tools (21)
 
 - **[solidjs/solid](https://github.com/solidjs/solid)** - 细粒度响应式 UI 库 —— 无虚拟 DOM，状态变更编译成精确 DOM 操作，JSX 语法、性能榜常年靠前；36.5k 星仅 30 open issues 为全榜最干净之一（完全定型、维护极稳），fork 率 3.2% 拿来即用；生态与招人池远小于 React 是已知代价。
   - 语言: TypeScript | 星标: 36,581
@@ -273,6 +285,12 @@
   - 语言: 未标注 | 星标: 10,879 (今日+361)
 - **[GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** - Chrome 团队「现代 Web 开发指引」源仓库 —— 官方维护的现代写法事实来源，适合当 agent 规范输入/RAG 语料治 AI 写前端的「过时病」；Apache-2.0，⚠️ 无描述无 topics。
   - 语言: TypeScript | 星标: 1,749 (今日+159)
+
+**[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)** - 把「过审玄学」变成可执行清单 —— 117 条已归档的 App Store/Google Play 拒绝模式及修法、隐私清单与 Data safety 检查、95 条合规死线跟踪（EU AI Act/DSA/COPPA/年龄法），并自带 AI coding agent 的 pre-submission guard skill；单日 +377（涨幅约 26%）说明痛点极硬，是「合规即代码」最落地的样本；⚠️ 协议 NOASSERTION，且清单不构成法律意见。
+  - 语言: Shell | 星标: 1,837 (今日+377)
+
+**[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** - 面向 CI/CD 可靠性的开源 agent —— 流水线失败/告警洪水/值班响应收进一个自动分诊与根因定位的 CLI，接 Datadog/Grafana/GitLab CI；1.3 万星仅 **12 个 open issues** 工程收口极干净，fork 率 14.5% 说明有团队在改造成自家值班流程；SRE 是 agent 落地最值的格子（告警噪音纯消耗，自动分诊=直接省钱）。
+  - 语言: Python | 星标: 13,123 (今日+38)
 
 ## Games (3)
 
@@ -394,7 +412,7 @@
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** - Ghidra is a software reverse engineering (SRE) framework...
   - 语言: Java | 星标: 87,505 (今日+1,008)
 
-## System Tools (16)
+## System Tools (17)
 
 - **[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)** - Go 写的自托管 Docker 管理面板 —— 容器/镜像/Compose stack/卷网络可视化管理、多主机 agent 接管，单二进制部署，替代 Docker Desktop 那套付费授权；8.7K 星仅 11 个 open issues、fork 率 4.6%，今日清单里工程最干净的一个。⚠️ 管理面板 = 服务器 root 钥匙，公网暴露必须 TLS + 强认证。
   - 语言: Go | 星标: 8,728 (今日+46)
@@ -433,6 +451,9 @@
 - **[pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)** - 让任意 Apple Watch 用上爱马仕联名表盘 —— 典型「解锁生态」单点工具，两年老仓今天 +218 上榜，MIT；⚠️ watchOS 大版本升级易打断兼容性，仅限个人使用、勿商业分发。
   - 语言: Objective-C | 星标: 1,538 (今日+218)
 
+**[XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** - 「下载器的集大成者」—— Python asyncio 跨平台下载管理器，HTTP/多线程/BT/磁力通吃 + Fluent Design 界面，单仓库替代一堆零散小工具；三年老仓 12.7 千星仅 88 open issues，维护干净度罕见；⚠️ GPL-3.0 强传染、BT 功能自行确认地区合规。
+  - 语言: Python | 星标: 12,708 (今日+341)
+
 ## 每日精选归档
 
 - [2026-10-15.md](./daily/2026-10-15.md) - 今日精选
@@ -468,3 +489,4 @@
 - [2026-11-17.md](./daily/2026-11-17.md) - 今日精选
 - [2026-11-18.md](./daily/2026-11-18.md) - 今日精选
 - [2026-11-19.md](./daily/2026-11-19.md) - 今日精选
+- [2026-11-20.md](./daily/2026-11-20.md) - 今日精选
